@@ -15,7 +15,7 @@ CANAIS = [
     ("Trace Jama", "TRACE_JAMA", "JAMA", "https://media.umbraco.io/trace-backoffice/wx4cscwp/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-jama-ghana_1200x800_v1.jpg"),
     ("Trace UK", "TRACE_UK", "UK_FAST", "https://media.umbraco.io/trace-backoffice/lu0blq2l/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-uk-united-kingdom_1200x800_v1.jpg"),
     ("Trace Gospel SA", "TRACE_GOSPEL_SA", "GOSPEL_SA", "https://media.umbraco.io/trace-backoffice/u5kjb4ra/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-gospel-southern-africa_1200x800_v1.jpg"),
-    ("Trace Muzika", "TRACE_MUZICA", "MUZIKA", "https://media.umbraco.io/trace-backoffice/bhljdj0m/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-muzika-ethiopia_1200x800_v1.jpg"),
+    ("Trace Muzika", "TRACE_MUZICA", "MUZICA", "https://media.umbraco.io/trace-backoffice/bhljdj0m/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-muzika-ethiopia_1200x800_v1.jpg"),
     ("Trace Urban Inter", "TRACE_URBAN_INT", "URBAN_INTER", "https://media.umbraco.io/trace-backoffice/gbvclgv4/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-urban-international_1200x800_v1.jpg"),
     ("Trace Caribbean", "TRACE_CARIBBEAN", "CARIBBEAN", "https://media.umbraco.io/trace-backoffice/qluekida/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-caribbean-caribbean_1200x800_v1.jpg"),
     ("Trace Latina", "TRACE_LATINA", "LATINA", "https://media.umbraco.io/trace-backoffice/gssla4u2/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-latina-latin-america_1200x800_v1.jpg"),
@@ -41,6 +41,13 @@ def clean_xmltv_date(date_str):
     clean_num = date_str.replace('-', '').replace(':', '').replace('T', '')
     base_time = clean_num.split('.')[0][:14]
     return f"{base_time} +0000"
+
+def clean_broken_entities(text):
+    """Remove resíduos de aspas estruturais corrompidas (&quot; e \") de dentro das tags de texto simples."""
+    text = text.replace('&quot;', '')
+    text = text.replace('"', '')
+    text = text.replace('\\', '')
+    return text
 
 def build_m3u():
     print("Gerando lista M3U com logos limpas do Umbraco...")
@@ -79,12 +86,19 @@ def build_merged_epg():
                     tree = ET.fromstring(xml_text.encode('utf-8'))
                     program_count = 0
                     for elem in tree.iter():
-                        if elem.tag.split('}')[-1] == 'programme':
+                        tag_pure = elem.tag.split('}')[-1]
+                        if tag_pure == 'programme':
                             elem.set('channel', tvg_id)
                             elem.set('start', clean_xmltv_date(elem.get('start')))
                             elem.set('stop', clean_xmltv_date(elem.get('stop')))
                             root_master.append(elem)
                             program_count += 1
+                        
+                        # Limpa textos com tags corrompidas como <date>&quot;20260728&quot;</date>
+                        elif tag_pure in ['date', 'language', 'length', 'title', 'desc']:
+                            if elem.text:
+                                elem.text = clean_broken_entities(elem.text)
+                                
                     print(f"-> {nome}: {program_count} programas importados.")
                 except ET.ParseError:
                     print(f"-> Erro de sintaxe XML em {nome}.")
@@ -96,6 +110,10 @@ def build_merged_epg():
     print("Salvando arquivo mestre...")
     raw_xml = ET.tostring(root_master, encoding='utf-8')
     pretty_xml = minidom.parseString(raw_xml).toprettyxml(indent="  ")
+    
+    # Uma limpeza extra de string para remover entidades remanescentes que tenham pulado o parser
+    pretty_xml = pretty_xml.replace('&amp;quot;', '')
+    
     with open("epg_final.xml", "w", encoding="utf-8") as f:
         f.write(pretty_xml)
     print("Arquivo 'epg_final.xml' gerado com sucesso!")
@@ -104,3 +122,4 @@ if __name__ == "__main__":
     build_m3u()
     print("-" * 40)
     build_merged_epg()
+                            
