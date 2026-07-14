@@ -2,8 +2,8 @@ name: Atualizar EPG e M3U Trace Network
 
 on:
   schedule:
-    # Roda todos os dias às 03:00 UTC (00:00 Horário de Brasília)
-    - cron: '0 3 * * *'
+    # Roda a cada 4 horas (00:00, 04:00, 08:00, 12:00, 16:00, 20:00 UTC)
+    - cron: '0 */4 * * *'
   workflow_dispatch:
     # Permite rodar manualmente pelo painel do GitHub
 
@@ -39,4 +39,3 @@ jobs:
         git config --local user.name "JulioCesarXY"
         git add canais_trace.m3u epg_final.xml
         git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: M3U e EPG atualizados✅" && git push)
-        
