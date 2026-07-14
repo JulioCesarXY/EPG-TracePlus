@@ -53,7 +53,7 @@ https://channels.trace.plus/Traceprod/GOSPEL_SA/abr.m3u8
 #EXTINF:-1 tvg-id="TRACE_MUZICA" tvg-name="Trace Muzika" tvg-logo="https://media.umbraco.io/trace-backoffice/bhljdj0m/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-muzika-ethiopia_1200x800_v1.jpg" group-title="Trace Network",Trace Muzika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trace.plus/
-https://channels.trace.plus/Traceprod/MUZIKA/abr.m3u8
+https://channels.trace.plus/Traceprod/MUZICA/abr.m3u8
 
 #EXTINF:-1 tvg-id="TRACE_URBAN_INT" tvg-name="Trace Urban Inter" tvg-logo="https://media.umbraco.io/trace-backoffice/gbvclgv4/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-urban-international_1200x800_v1.jpg" group-title="Trace Network",Trace Urban Inter
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
