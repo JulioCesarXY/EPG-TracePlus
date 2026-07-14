@@ -1,0 +1,131 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TRACE_TOCA" tvg-name="Trace Toca" tvg-logo="https://media.umbraco.io/trace-backoffice/aisj3x2s/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-toca_-angola-c-verde-mozambique_1200x800_v1.jpg" group-title="Trace Network",Trace Toca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/TOCA/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_BRAZUCA" tvg-name="Trace Brazuca" tvg-logo="https://media.umbraco.io/trace-backoffice/srvpyki2/01_2024_trace-_pt_tv-channels-logos-with-zone-inclusion_trace-brasil-brasil__1200x800_v1.png" group-title="Trace Network",Trace Brazuca
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/BRAZIL/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_URBAN_SA" tvg-name="Trace Urban SA" tvg-logo="https://media.umbraco.io/trace-backoffice/iuidd41o/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-urban-southern-africa_1200x800_v1.jpg" group-title="Trace Network",Trace Urban SA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/URBAN_SA/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_NAIJA" tvg-name="Trace Naija" tvg-logo="https://media.umbraco.io/trace-backoffice/rkyl1h4s/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-naija-nigeria_1200x800_v1.jpg" group-title="Trace Network",Trace Naija
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/NAIJA/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_IVOIRE" tvg-name="Trace Ivoire" tvg-logo="https://media.umbraco.io/trace-backoffice/bf1boec4/logo_traceplus_trace-ivoire_eng_color_rgb.png" group-title="Trace Network",Trace Ivoire
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/TRACE_IVOIRE/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_MZIKI" tvg-name="Trace Mziki" tvg-logo="https://media.umbraco.io/trace-backoffice/pssjpwr5/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-mziki-east-africa_1200x800_v1.jpg" group-title="Trace Network",Trace Mziki
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/MZIKI/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_AFRICA_EN" tvg-name="Trace Africa EN" tvg-logo="https://media.umbraco.io/trace-backoffice/m5thaean/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-gospel-nigeria-east-africa_1200x800_v1.jpg" group-title="Trace Network",Trace Africa EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/AFRICA_EN/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_JAMA" tvg-name="Trace Jama" tvg-logo="https://media.umbraco.io/trace-backoffice/wx4cscwp/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-jama-ghana_1200x800_v1.jpg" group-title="Trace Network",Trace Jama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/JAMA/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_UK" tvg-name="Trace UK" tvg-logo="https://media.umbraco.io/trace-backoffice/lu0blq2l/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-uk-united-kingdom_1200x800_v1.jpg" group-title="Trace Network",Trace UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/UK_FAST/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_GOSPEL_SA" tvg-name="Trace Gospel SA" tvg-logo="https://media.umbraco.io/trace-backoffice/u5kjb4ra/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-gospel-southern-africa_1200x800_v1.jpg" group-title="Trace Network",Trace Gospel SA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/GOSPEL_SA/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_MUZICA" tvg-name="Trace Muzika" tvg-logo="https://media.umbraco.io/trace-backoffice/bhljdj0m/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-muzika-ethiopia_1200x800_v1.jpg" group-title="Trace Network",Trace Muzika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/MUZIKA/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_URBAN_INT" tvg-name="Trace Urban Inter" tvg-logo="https://media.umbraco.io/trace-backoffice/gbvclgv4/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-urban-international_1200x800_v1.jpg" group-title="Trace Network",Trace Urban Inter
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/URBAN_INTER/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_CARIBBEAN" tvg-name="Trace Caribbean" tvg-logo="https://media.umbraco.io/trace-backoffice/qluekida/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-caribbean-caribbean_1200x800_v1.jpg" group-title="Trace Network",Trace Caribbean
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/CARIBBEAN/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_LATINA" tvg-name="Trace Latina" tvg-logo="https://media.umbraco.io/trace-backoffice/gssla4u2/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-latina-latin-america_1200x800_v1.jpg" group-title="Trace Network",Trace Latina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/LATINA/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_GOSPEL_FR" tvg-name="Trace Gospel FR" tvg-logo="https://media.umbraco.io/trace-backoffice/0nfbllov/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-gospel-africa-franco_1200x800_v1.jpg" group-title="Trace Network",Trace Gospel FR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/GOSPEL_FR/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_AYITI" tvg-name="Trace Ayiti" tvg-logo="https://media.umbraco.io/trace-backoffice/a2yep4va/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-ayiti-haiti_1200x800_v1.jpg" group-title="Trace Network",Trace Ayiti
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/AYITI/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_KITOKO" tvg-name="Trace Kitoko" tvg-logo="https://media.umbraco.io/trace-backoffice/t3iav1hu/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-kitoko-congo_1200x800_v1.png" group-title="Trace Network",Trace Kitoko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/KITOKO/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_GOSPEL_ROA" tvg-name="Trace Gospel ROA" tvg-logo="https://media.umbraco.io/trace-backoffice/wvyotsas/2025_tngo_channel_logo_traceplus_eng_1200x800.png" group-title="Trace Network",Trace Gospel ROA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/GOSPEL_ROA/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_MBOA" tvg-name="Trace Mboa" tvg-logo="https://media.umbraco.io/trace-backoffice/su4mcbo3/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-mboa-cameroon_1200x800_v1.jpg" group-title="Trace Network",Trace Mboa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/MBOA/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_AFRICA" tvg-name="Trace Africa FR" tvg-logo="https://media.umbraco.io/trace-backoffice/55qdwsip/01_2024_trace-_eng_tv_channels_logos_with_zone_inclusion_trace_africa_-_francophone_1200x800_v1-1.jpg" group-title="Trace Network",Trace Africa FR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/AFRICA_FR/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_URBAN_AFR_FR" tvg-name="Trace Urban Afr FR" tvg-logo="https://media.umbraco.io/trace-backoffice/k1kj3mr4/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-urban-africa-franco_1200x800_v1.jpg" group-title="Trace Network",Trace Urban Afr FR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/URBAN_AFRIC_FR/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_VANILLA" tvg-name="Trace Vanilla" tvg-logo="https://media.umbraco.io/trace-backoffice/opupyuil/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-vanilla-indian-ocean_1200x800_v1.jpg" group-title="Trace Network",Trace Vanilla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/VANILLA/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_URBAN_FR" tvg-name="Trace Urban FR" tvg-logo="https://media.umbraco.io/trace-backoffice/5i4pv1b1/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-urban-france_1200x800_v1.jpg" group-title="Trace Network",Trace Urban FR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/URBAN_FR/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_AFRIKORA" tvg-name="Trace Teranga" tvg-logo="https://media.umbraco.io/trace-backoffice/chbdvrsx/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-teranga_senegal-mail-gambia_1200x800_v1.jpg" group-title="Trace Network",Trace Teranga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/TERANGA/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_SPORTS" tvg-name="Trace Sports" tvg-logo="https://media.umbraco.io/trace-backoffice/ttibw1u5/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-sports-sports-celebrities_1200x800_v1.jpg" group-title="Trace Network",Trace Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS/abr.m3u8
+
+#EXTINF:-1 tvg-id="TRACE_URBAN_DOM" tvg-name="Trace Urban Dom" tvg-logo="https://media.umbraco.io/trace-backoffice/r3mklqsu/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-urban-caribbean-indian-ocean_1200x800_v1.jpg" group-title="Trace Network",Trace Urban Dom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://trace.plus/
+https://channels.trace.plus/Traceprod/URBAN_DOM/abr.m3u8
