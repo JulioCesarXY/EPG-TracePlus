@@ -1,0 +1,42 @@
+name: Atualizar EPG e M3U Trace Network
+
+on:
+  schedule:
+    # Roda todos os dias às 03:00 UTC (00:00 Horário de Brasília)
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+    # Permite rodar manualmente pelo painel do GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Baixa o código do seu repositório para a máquina virtual
+    - name: Checkout do código
+      uses: actions/checkout@v4
+
+    # 2. Configura o ambiente do Python
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    # 3. Instala a biblioteca requests que o script utiliza
+    - name: Instalar Dependências
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    # 4. Executa o script que gera o M3U e o EPG mesclado
+    - name: Executar Script de Atualização
+      run: python trace_pipeline.py
+
+    # 5. Salva as alterações de volta no seu repositório automaticamente
+    - name: Commit e Push das atualizações
+      run: |
+        git config --local user.email "104462712+JulioCesarXY@users.noreply.github.com"
+        git config --local user.name "JulioCesarXY"
+        git add canais_trace.m3u epg_final.xml
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: M3U e EPG atualizados✅" && git push)
+        
