@@ -1,4 +1,4 @@
-# 📺 Trace Plus IPTV & EPG Automation
+# 📺 Trace Plus & EPG Automation
 
 [![EPG e M3U Trace Plus](https://github.com/JulioCesarXY/EPG-TracePlus/actions/workflows/update_trace.yml/badge.svg)](https://github.com/JulioCesarXY/EPG-TracePlus/actions/workflows/update_trace.yml)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
