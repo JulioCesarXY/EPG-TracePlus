@@ -1,4 +1,4 @@
-name: Atualizar EPG e M3U Trace Network
+name: EPG e M3U Trace Plus
 
 on:
   schedule:
