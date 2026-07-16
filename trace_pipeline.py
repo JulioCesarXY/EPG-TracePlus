@@ -3,7 +3,7 @@ import re
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
-# Mapeamento definitivo e único com as URLs reais do Umbraco
+# Mapeamento definitivo com as logos da Trace Africa EN e Trace Gospel ROA corrigidas (invertidas)
 CANAIS = [
     ("Trace Toca", "TRACE_TOCA", "TOCA", "https://media.umbraco.io/trace-backoffice/aisj3x2s/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-toca_-angola-c-verde-mozambique_1200x800_v1.jpg"),
     ("Trace Brazuca", "TRACE_BRAZUCA", "BRAZIL", "https://media.umbraco.io/trace-backoffice/srvpyki2/01_2024_trace-_pt_tv-channels-logos-with-zone-inclusion_trace-brasil-brasil__1200x800_v1.png"),
@@ -11,18 +11,20 @@ CANAIS = [
     ("Trace Naija", "TRACE_NAIJA", "NAIJA", "https://media.umbraco.io/trace-backoffice/rkyl1h4s/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-naija-nigeria_1200x800_v1.jpg"),
     ("Trace Ivoire", "TRACE_IVOIRE", "TRACE_IVOIRE", "https://media.umbraco.io/trace-backoffice/bf1boec4/logo_traceplus_trace-ivoire_eng_color_rgb.png"),
     ("Trace Mziki", "TRACE_MZIKI", "MZIKI", "https://media.umbraco.io/trace-backoffice/pssjpwr5/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-mziki-east-africa_1200x800_v1.jpg"),
-    ("Trace Africa EN", "TRACE_AFRICA_EN", "AFRICA_EN", "https://media.umbraco.io/trace-backoffice/m5thaean/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-gospel-nigeria-east-africa_1200x800_v1.jpg"),
+    # Invertido: Agora com a logo correta TNGO / Trace Ngoma
+    ("Trace Africa EN", "TRACE_AFRICA_EN", "AFRICA_EN", "https://media.umbraco.io/trace-backoffice/wvyotsas/2025_tngo_channel_logo_traceplus_eng_1200x800.png"),
     ("Trace Jama", "TRACE_JAMA", "JAMA", "https://media.umbraco.io/trace-backoffice/wx4cscwp/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-jama-ghana_1200x800_v1.jpg"),
     ("Trace UK", "TRACE_UK", "UK_FAST", "https://media.umbraco.io/trace-backoffice/lu0blq2l/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-uk-united-kingdom_1200x800_v1.jpg"),
     ("Trace Gospel SA", "TRACE_GOSPEL_SA", "GOSPEL_SA", "https://media.umbraco.io/trace-backoffice/u5kjb4ra/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-gospel-southern-africa_1200x800_v1.jpg"),
-    ("Trace Muzika", "TRACE_MUZICA", "MUZICA", "https://media.umbraco.io/trace-backoffice/bhljdj0m/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-muzika-ethiopia_1200x800_v1.jpg"),
+    ("Trace Muzika", "TRACE_MUZICA", "MUZIKA", "https://media.umbraco.io/trace-backoffice/bhljdj0m/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-muzika-ethiopia_1200x800_v1.jpg"),
     ("Trace Urban Inter", "TRACE_URBAN_INT", "URBAN_INTER", "https://media.umbraco.io/trace-backoffice/gbvclgv4/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-urban-international_1200x800_v1.jpg"),
     ("Trace Caribbean", "TRACE_CARIBBEAN", "CARIBBEAN", "https://media.umbraco.io/trace-backoffice/qluekida/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-caribbean-caribbean_1200x800_v1.jpg"),
     ("Trace Latina", "TRACE_LATINA", "LATINA", "https://media.umbraco.io/trace-backoffice/gssla4u2/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-latina-latin-america_1200x800_v1.jpg"),
     ("Trace Gospel FR", "TRACE_GOSPEL_FR", "GOSPEL_FR", "https://media.umbraco.io/trace-backoffice/0nfbllov/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-gospel-africa-franco_1200x800_v1.jpg"),
     ("Trace Ayiti", "TRACE_AYITI", "AYITI", "https://media.umbraco.io/trace-backoffice/a2yep4va/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-ayiti-haiti_1200x800_v1.jpg"),
     ("Trace Kitoko", "TRACE_KITOKO", "KITOKO", "https://media.umbraco.io/trace-backoffice/t3iav1hu/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-kitoko-congo_1200x800_v1.png"),
-    ("Trace Gospel ROA", "TRACE_GOSPEL_ROA", "GOSPEL_ROA", "https://media.umbraco.io/trace-backoffice/wvyotsas/2025_tngo_channel_logo_traceplus_eng_1200x800.png"),
+    # Invertido: Agora com a logo correta Trace Gospel Nigeria / East Africa
+    ("Trace Gospel ROA", "TRACE_GOSPEL_ROA", "GOSPEL_ROA", "https://media.umbraco.io/trace-backoffice/m5thaean/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-gospel-nigeria-east-africa_1200x800_v1.jpg"),
     ("Trace Mboa", "TRACE_MBOA", "MBOA", "https://media.umbraco.io/trace-backoffice/su4mcbo3/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-mboa-cameroon_1200x800_v1.jpg"),
     ("Trace Africa FR", "TRACE_AFRICA", "AFRICA_FR", "https://media.umbraco.io/trace-backoffice/55qdwsip/01_2024_trace-_eng_tv_channels_logos_with_zone_inclusion_trace_africa_-_francophone_1200x800_v1-1.jpg"),
     ("Trace Urban Afr FR", "TRACE_URBAN_AFR_FR", "URBAN_AFRIC_FR", "https://media.umbraco.io/trace-backoffice/k1kj3mr4/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-urban-africa-franco_1200x800_v1.jpg"),
@@ -43,14 +45,13 @@ def clean_xmltv_date(date_str):
     return f"{base_time} +0000"
 
 def clean_broken_entities(text):
-    """Remove resíduos de aspas estruturais corrompidas (&quot; e \") de dentro das tags de texto simples."""
     text = text.replace('&quot;', '')
     text = text.replace('"', '')
     text = text.replace('\\', '')
     return text
 
 def build_m3u():
-    print("Gerando lista M3U com logos limpas do Umbraco...")
+    print("Gerando lista M3U com logos corrigidas...")
     m3u_lines = ["#EXTM3U\n"]
     for nome, tvg_id, slug_stream, logo_url in CANAIS:
         stream_url = f"https://channels.trace.plus/Traceprod/{slug_stream}/abr.m3u8"
@@ -93,8 +94,6 @@ def build_merged_epg():
                             elem.set('stop', clean_xmltv_date(elem.get('stop')))
                             root_master.append(elem)
                             program_count += 1
-                        
-                        # Limpa textos com tags corrompidas como <date>&quot;20260728&quot;</date>
                         elif tag_pure in ['date', 'language', 'length', 'title', 'desc']:
                             if elem.text:
                                 elem.text = clean_broken_entities(elem.text)
@@ -110,8 +109,6 @@ def build_merged_epg():
     print("Salvando arquivo mestre...")
     raw_xml = ET.tostring(root_master, encoding='utf-8')
     pretty_xml = minidom.parseString(raw_xml).toprettyxml(indent="  ")
-    
-    # Uma limpeza extra de string para remover entidades remanescentes que tenham pulado o parser
     pretty_xml = pretty_xml.replace('&amp;quot;', '')
     
     with open("epg_final.xml", "w", encoding="utf-8") as f:
@@ -122,4 +119,3 @@ if __name__ == "__main__":
     build_m3u()
     print("-" * 40)
     build_merged_epg()
-                            
