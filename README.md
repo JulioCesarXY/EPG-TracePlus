@@ -1,8 +1,9 @@
 # 📺 Trace Plus & EPG Automation
 
-[![EPG e M3U Trace Plus](https://github.com/JulioCesarXY/EPG-TracePlus/actions/workflows/update_trace.yml/badge.svg)](https://github.com/JulioCesarXY/EPG-TracePlus/actions/workflows/update_trace.yml)
+[![EPG and M3U Update](https://github.com/JulioCesarXY/EPG-TracePlus/actions/workflows/update_trace.yml/badge.svg)](https://github.com/JulioCesarXY/EPG-TracePlus/actions/workflows/update_trace.yml)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![Update Frequency](https://img.shields.io/badge/Atualização-A%20cada%204%20horas-cron-green)
+![Update Frequency](https://img.shields.io/badge/Atualizacao-A_cada_4_horas-green?logo=github-actions&logoColor=white)
+
 
 Este projeto automatiza a captura, organização e geração da lista de canais (M3U) e da grade de programação integrada (EPG XMLTV) para toda a rede de canais **Trace Plus** (Trace Toca, Trace Brazuca, Trace Urban, etc.).
 
