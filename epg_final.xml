@@ -19679,7 +19679,7 @@
   </programme>
   
   
-  <programme start="20260812000000 +0000" stop="20260812020000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812000000 +0000" stop="20260812020003 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -19721,7 +19721,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7203.4</length>
     
     
     <episode-num system="1711">1711</episode-num>
@@ -19766,7 +19766,7 @@
   </programme>
   
   
-  <programme start="20260812020000 +0000" stop="20260812030000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812020003 +0000" stop="20260812030044 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -19808,7 +19808,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3641</length>
     
     
     <episode-num system="115">115</episode-num>
@@ -19853,7 +19853,7 @@
   </programme>
   
   
-  <programme start="20260812030000 +0000" stop="20260812060000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812030044 +0000" stop="20260812060000 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -19895,7 +19895,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10755.5</length>
     
     
     <episode-num system="59">59</episode-num>
@@ -19940,7 +19940,7 @@
   </programme>
   
   
-  <programme start="20260812060000 +0000" stop="20260812090000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812060000 +0000" stop="20260812090114 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -19982,7 +19982,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10874.3</length>
     
     
     <episode-num system="59">59</episode-num>
@@ -20027,7 +20027,7 @@
   </programme>
   
   
-  <programme start="20260812090000 +0000" stop="20260812110000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812090114 +0000" stop="20260812110015 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -20069,7 +20069,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7140.6</length>
     
     
     <episode-num system="51">51</episode-num>
@@ -20114,7 +20114,7 @@
   </programme>
   
   
-  <programme start="20260812110000 +0000" stop="20260812120000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812110015 +0000" stop="20260812120033 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -20156,7 +20156,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3618.8</length>
     
     
     <episode-num system="9">9</episode-num>
@@ -20201,7 +20201,7 @@
   </programme>
   
   
-  <programme start="20260812120000 +0000" stop="20260812150000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812120033 +0000" stop="20260812150109 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -20243,7 +20243,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10835.3</length>
     
     
     <episode-num system="60">60</episode-num>
@@ -20288,7 +20288,7 @@
   </programme>
   
   
-  <programme start="20260812150000 +0000" stop="20260812160000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812150109 +0000" stop="20260812160127 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -20330,7 +20330,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3618</length>
     
     
     <episode-num system="427">427</episode-num>
@@ -20375,7 +20375,7 @@
   </programme>
   
   
-  <programme start="20260812160000 +0000" stop="20260812170000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812160127 +0000" stop="20260812170104 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -20417,7 +20417,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3577.5</length>
     
     
     <episode-num system="1929">1929</episode-num>
@@ -20462,181 +20462,7 @@
   </programme>
   
   
-  <programme start="20260812170000 +0000" stop="20260812180000 +0000" channel="TRACE_BRAZUCA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">HITS NON STOP</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les meilleurs hits de la semaine s'enchaînent pour rythmer ta journée.</desc>
-    
-    
-    <title lang="EN">HITS NON STOP</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best hits of the week, one after the other, to set the pace of your day.</desc>
-    
-    
-    <title lang="PT">HITS NON STOP</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Os melhores êxitos da semana, um após o outro, para marcar o ritmo do teu dia.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="845">845</episode-num>
-    
-    
-    <episode-num system="assetID">HITS NON STOP</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812180000 +0000" stop="20260812190000 +0000" channel="TRACE_BRAZUCA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">HITS GLOBAIS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">This show presents the greatest international hits from all corners of the world.</desc>
-    
-    
-    <title lang="FR">HITS GLOBAIS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Ce spectacle vous présente les plus grands succès internationaux de tous les coins du monde.</desc>
-    
-    
-    <title lang="PT">HITS GLOBAIS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Este show traz hits internacionas de todo canto do global</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="46">46</episode-num>
-    
-    
-    <episode-num system="assetID">HITS GLOBAIS</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812190000 +0000" stop="20260812200000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812190029 +0000" stop="20260812194025 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -20678,7 +20504,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">2396.2</length>
     
     
     <episode-num system="283">283</episode-num>
@@ -20723,7 +20549,7 @@
   </programme>
   
   
-  <programme start="20260812200000 +0000" stop="20260812203000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812210013 +0000" stop="20260812212930 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -20765,181 +20591,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">1800</length>
-    
-    
-    <episode-num system="1801">1801</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE TRENDS</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812203000 +0000" stop="20260812210000 +0000" channel="TRACE_BRAZUCA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">HITS NON STOP</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les meilleurs hits de la semaine s'enchaînent pour rythmer ta journée.</desc>
-    
-    
-    <title lang="EN">HITS NON STOP</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best hits of the week, one after the other, to set the pace of your day.</desc>
-    
-    
-    <title lang="PT">HITS NON STOP</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Os melhores êxitos da semana, um após o outro, para marcar o ritmo do teu dia.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">1800</length>
-    
-    
-    <episode-num system="2413">2413</episode-num>
-    
-    
-    <episode-num system="assetID">HITS NON STOP</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812210000 +0000" stop="20260812213000 +0000" channel="TRACE_BRAZUCA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TRACE TRENDS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Art, entrepreneurship and the best of the peripheries at Trace Trends!  </desc>
-    
-    
-    <title lang="PT">TRACE TRENDS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Arte, empreendedorismo e o melhor das periferias você vê no Trace Trends! </desc>
-    
-    
-    <title lang="FR">TRACE TRENDS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Art, entrepreneurship and the best of the peripheries at Trace Trends!  </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">1800</length>
+    <length units="minutes">1756.7</length>
     
     
     <episode-num system="1802">1802</episode-num>
@@ -20984,7 +20636,7 @@
   </programme>
   
   
-  <programme start="20260812213000 +0000" stop="20260812220000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812212930 +0000" stop="20260812220033 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -21026,7 +20678,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">1800</length>
+    <length units="minutes">1863.2</length>
     
     
     <episode-num system="2414">2414</episode-num>
@@ -21071,7 +20723,7 @@
   </programme>
   
   
-  <programme start="20260812220000 +0000" stop="20260812230000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812220033 +0000" stop="20260812223607 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -21113,7 +20765,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">2133.5</length>
     
     
     <episode-num system="2396">2396</episode-num>
@@ -21158,7 +20810,7 @@
   </programme>
   
   
-  <programme start="20260812230000 +0000" stop="20260813000000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20260812223607 +0000" stop="20260812235037 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -21200,7 +20852,7 @@
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">4470.3</length>
     
     
     <episode-num system="2397">2397</episode-num>
@@ -111110,7 +110762,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812000000 +0000" stop="20260812060000 +0000" channel="TRACE_JAMA">
+  <programme start="20260812000000 +0000" stop="20260812060018 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -111152,7 +110804,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">21600</length>
+    <length units="minutes">21618.7</length>
     
     
     <episode-num system="1524">1524</episode-num>
@@ -111197,7 +110849,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812060000 +0000" stop="20260812100000 +0000" channel="TRACE_JAMA">
+  <programme start="20260812060018 +0000" stop="20260812100033 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -111239,7 +110891,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">14400</length>
+    <length units="minutes">14415</length>
     
     
     <episode-num system="1450">1450</episode-num>
@@ -111284,7 +110936,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812100000 +0000" stop="20260812120000 +0000" channel="TRACE_JAMA">
+  <programme start="20260812100033 +0000" stop="20260812113023 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -111326,7 +110978,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">5389.6</length>
     
     
     <episode-num system="1106">1106</episode-num>
@@ -111371,7 +111023,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812120000 +0000" stop="20260812140000 +0000" channel="TRACE_JAMA">
+  <programme start="20260812120015 +0000" stop="20260812140037 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -111413,7 +111065,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7221.6</length>
     
     
     <episode-num system="1573">1573</episode-num>
@@ -111458,94 +111110,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812140000 +0000" stop="20260812150000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">FOCUS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les meilleures vidéos de ton artiste préféré,Focus est l'émission à ne pas manquer! TRACE Gospel consacre 60 minutes aux plus grands succès de cet artiste.</desc>
-    
-    
-    <title lang="EN">FOCUS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best videos from your favourite artist, Focus is the show not to be missed! TRACE Gospel devotes 60 minutes to this artist's greatest hits. </desc>
-    
-    
-    <title lang="PT">FOCUS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Os melhores vídeos do seu artista preferido, Focus é o espetáculo a não perder! TRACE O Gospel dedica 60 minutos aos maiores êxitos deste artista. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1335">1335</episode-num>
-    
-    
-    <episode-num system="assetID">FOCUS </episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812150000 +0000" stop="20260812190000 +0000" channel="TRACE_JAMA">
+  <programme start="20260812150057 +0000" stop="20260812190032 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -111587,7 +111152,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">14400</length>
+    <length units="minutes">14375</length>
     
     
     <episode-num system="1104">1104</episode-num>
@@ -111632,7 +111197,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812190000 +0000" stop="20260812194500 +0000" channel="TRACE_JAMA">
+  <programme start="20260812190032 +0000" stop="20260812194453 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -111674,7 +111239,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2660.8</length>
     
     
     <episode-num system="1473">1473</episode-num>
@@ -111719,7 +111284,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812194500 +0000" stop="20260812200000 +0000" channel="TRACE_JAMA">
+  <programme start="20260812194453 +0000" stop="20260812200040 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -111761,7 +111326,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">947.3</length>
     
     
     <episode-num system="1377">1377</episode-num>
@@ -111806,7 +111371,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812200000 +0000" stop="20260812210000 +0000" channel="TRACE_JAMA">
+  <programme start="20260812200040 +0000" stop="20260812210040 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -111848,7 +111413,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3599.7</length>
     
     
     <episode-num system="1410">1410</episode-num>
@@ -111893,7 +111458,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812210000 +0000" stop="20260812220000 +0000" channel="TRACE_JAMA">
+  <programme start="20260812210040 +0000" stop="20260812220041 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -111935,7 +111500,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3601.3</length>
     
     
     <episode-num system="1898">1898</episode-num>
@@ -111980,7 +111545,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812220000 +0000" stop="20260812230000 +0000" channel="TRACE_JAMA">
+  <programme start="20260812220041 +0000" stop="20260812230048 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -112022,7 +111587,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3606.3</length>
     
     
     <episode-num system="1369">1369</episode-num>
@@ -112067,7 +111632,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812230000 +0000" stop="20260813000000 +0000" channel="TRACE_JAMA">
+  <programme start="20260812230048 +0000" stop="20260813000025 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -112109,7 +111674,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3577.2</length>
     
     
     <episode-num system="1899">1899</episode-num>
@@ -173539,7 +173104,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812000000 +0000" stop="20260812060000 +0000" channel="TRACE_MUZICA">
+  <programme start="20260812000000 +0000" stop="20260812060007 +0000" channel="TRACE_MUZICA">
     
     
     <prod_key_test/>
@@ -173581,7 +173146,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">21600</length>
+    <length units="minutes">21607.2</length>
     
     
     <episode-num system="1537">1537</episode-num>
@@ -173626,7 +173191,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812060000 +0000" stop="20260812080000 +0000" channel="TRACE_MUZICA">
+  <programme start="20260812060007 +0000" stop="20260812080009 +0000" channel="TRACE_MUZICA">
     
     
     <prod_key_test/>
@@ -173668,7 +173233,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7202.5</length>
     
     
     <episode-num system="1537">1537</episode-num>
@@ -173713,7 +173278,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812080000 +0000" stop="20260812090000 +0000" channel="TRACE_MUZICA">
+  <programme start="20260812080009 +0000" stop="20260812090003 +0000" channel="TRACE_MUZICA">
     
     
     <prod_key_test/>
@@ -173755,7 +173320,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3593.8</length>
     
     
     <episode-num system="1533">1533</episode-num>
@@ -173800,7 +173365,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812090000 +0000" stop="20260812100000 +0000" channel="TRACE_MUZICA">
+  <programme start="20260812090003 +0000" stop="20260812100001 +0000" channel="TRACE_MUZICA">
     
     
     <prod_key_test/>
@@ -173842,7 +173407,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3598.2</length>
     
     
     <episode-num system="1922">1922</episode-num>
@@ -173887,7 +173452,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812100000 +0000" stop="20260812110000 +0000" channel="TRACE_MUZICA">
+  <programme start="20260812100001 +0000" stop="20260812110003 +0000" channel="TRACE_MUZICA">
     
     
     <prod_key_test/>
@@ -173929,7 +173494,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3601.8</length>
     
     
     <episode-num system="1303">1303</episode-num>
@@ -173974,7 +173539,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812110000 +0000" stop="20260812120000 +0000" channel="TRACE_MUZICA">
+  <programme start="20260812110003 +0000" stop="20260812120004 +0000" channel="TRACE_MUZICA">
     
     
     <prod_key_test/>
@@ -174016,7 +173581,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3600.8</length>
     
     
     <episode-num system="1923">1923</episode-num>
@@ -174061,7 +173626,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812120000 +0000" stop="20260812130000 +0000" channel="TRACE_MUZICA">
+  <programme start="20260812120004 +0000" stop="20260812130002 +0000" channel="TRACE_MUZICA">
     
     
     <prod_key_test/>
@@ -174103,7 +173668,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3597.4</length>
     
     
     <episode-num system="1612">1612</episode-num>
@@ -174148,7 +173713,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812130000 +0000" stop="20260812140000 +0000" channel="TRACE_MUZICA">
+  <programme start="20260812130002 +0000" stop="20260812140004 +0000" channel="TRACE_MUZICA">
     
     
     <prod_key_test/>
@@ -174190,7 +173755,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3601.9</length>
     
     
     <episode-num system="1924">1924</episode-num>
@@ -174235,7 +173800,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812140000 +0000" stop="20260812150000 +0000" channel="TRACE_MUZICA">
+  <programme start="20260812140004 +0000" stop="20260812150010 +0000" channel="TRACE_MUZICA">
     
     
     <prod_key_test/>
@@ -174278,7 +173843,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3606.1</length>
     
     
     <episode-num system="1381">1381</episode-num>
@@ -174323,7 +173888,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812150000 +0000" stop="20260812160000 +0000" channel="TRACE_MUZICA">
+  <programme start="20260812150010 +0000" stop="20260812160007 +0000" channel="TRACE_MUZICA">
     
     
     <prod_key_test/>
@@ -174365,7 +173930,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3597.1</length>
     
     
     <episode-num system="1493">1493</episode-num>
@@ -174410,94 +173975,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812160000 +0000" stop="20260812170000 +0000" channel="TRACE_MUZICA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">FOCUS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les meilleures vidéos de ton artiste préféré,Focus est l'émission à ne pas manquer! TRACE Gospel consacre 60 minutes aux plus grands succès de cet artiste.</desc>
-    
-    
-    <title lang="EN">FOCUS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best videos from your favourite artist, Focus is the show not to be missed! TRACE Gospel devotes 60 minutes to this artist's greatest hits. </desc>
-    
-    
-    <title lang="PT">FOCUS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Os melhores vídeos do seu artista preferido, Focus é o espetáculo a não perder! TRACE O Gospel dedica 60 minutos aos maiores êxitos deste artista. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1189">1189</episode-num>
-    
-    
-    <episode-num system="assetID">FOCUS</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812170000 +0000" stop="20260812184500 +0000" channel="TRACE_MUZICA">
+  <programme start="20260812170004 +0000" stop="20260812191423 +0000" channel="TRACE_MUZICA">
     
     
     <prod_key_test/>
@@ -174539,7 +174017,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">6300</length>
+    <length units="minutes">8059.2</length>
     
     
     <episode-num system="1268">1268</episode-num>
@@ -174584,94 +174062,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812184500 +0000" stop="20260812190000 +0000" channel="TRACE_MUZICA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">HITS NON STOP</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les meilleurs hits de la semaine s'enchaînent pour rythmer ta journée.</desc>
-    
-    
-    <title lang="EN">HITS NON STOP</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best hits of the week, one after the other, to set the pace of your day.</desc>
-    
-    
-    <title lang="PT">HITS NON STOP</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Os melhores êxitos da semana, um após o outro, para marcar o ritmo do teu dia.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">900</length>
-    
-    
-    <episode-num system="1363">1363</episode-num>
-    
-    
-    <episode-num system="assetID">HITS NON STOP</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812190000 +0000" stop="20260812200000 +0000" channel="TRACE_MUZICA">
+  <programme start="20260812191423 +0000" stop="20260812200006 +0000" channel="TRACE_MUZICA">
     
     
     <prod_key_test/>
@@ -174713,7 +174104,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">2742.9</length>
     
     
     <episode-num system="1592">1592</episode-num>
@@ -174758,94 +174149,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812200000 +0000" stop="20260812210000 +0000" channel="TRACE_MUZICA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">FOCUS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les meilleures vidéos de ton artiste préféré,Focus est l'émission à ne pas manquer! TRACE Gospel consacre 60 minutes aux plus grands succès de cet artiste.</desc>
-    
-    
-    <title lang="EN">FOCUS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best videos from your favourite artist, Focus is the show not to be missed! TRACE Gospel devotes 60 minutes to this artist's greatest hits. </desc>
-    
-    
-    <title lang="PT">FOCUS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Os melhores vídeos do seu artista preferido, Focus é o espetáculo a não perder! TRACE O Gospel dedica 60 minutos aos maiores êxitos deste artista. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1190">1190</episode-num>
-    
-    
-    <episode-num system="assetID">FOCUS</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812210000 +0000" stop="20260813000000 +0000" channel="TRACE_MUZICA">
+  <programme start="20260812210005 +0000" stop="20260813000009 +0000" channel="TRACE_MUZICA">
     
     
     <prod_key_test/>
@@ -174887,7 +174191,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10803.7</length>
     
     
     <episode-num system="1453">1453</episode-num>
@@ -205218,7 +204522,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812000000 +0000" stop="20260812050000 +0000" channel="TRACE_CARIBBEAN">
+  <programme start="20260812000000 +0000" stop="20260812050046 +0000" channel="TRACE_CARIBBEAN">
     
     
     <prod_key_test/>
@@ -205260,7 +204564,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">18000</length>
+    <length units="minutes">18046.6</length>
     
     
     <episode-num system="2184">2184</episode-num>
@@ -205305,7 +204609,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812050000 +0000" stop="20260812080000 +0000" channel="TRACE_CARIBBEAN">
+  <programme start="20260812050046 +0000" stop="20260812080051 +0000" channel="TRACE_CARIBBEAN">
     
     
     <prod_key_test/>
@@ -205347,7 +204651,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10804.8</length>
     
     
     <episode-num system="1838">1838</episode-num>
@@ -205392,7 +204696,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812080000 +0000" stop="20260812084500 +0000" channel="TRACE_CARIBBEAN">
+  <programme start="20260812080051 +0000" stop="20260812083229 +0000" channel="TRACE_CARIBBEAN">
     
     
     <prod_key_test/>
@@ -205434,7 +204738,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">1897.8</length>
     
     
     <episode-num system="1896">1896</episode-num>
@@ -205479,7 +204783,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812084500 +0000" stop="20260812090000 +0000" channel="TRACE_CARIBBEAN">
+  <programme start="20260812083229 +0000" stop="20260812100058 +0000" channel="TRACE_CARIBBEAN">
     
     
     <prod_key_test/>
@@ -205521,94 +204825,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">900</length>
-    
-    
-    <episode-num system="397">397</episode-num>
-    
-    
-    <episode-num system="assetID">CARIBBEAN VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812090000 +0000" stop="20260812100000 +0000" channel="TRACE_CARIBBEAN">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TRACE Caribbean sélectionne pour toi les meilleurs clips caribbéens pour te donner le sourire et réchauffer ton coeur.</desc>
-    
-    
-    <title lang="EN">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TRACE Caribbean selects the best Caribbean music videos to put a smile on your face and warm your heart. </desc>
-    
-    
-    <title lang="PT">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">A TRACE Caribbean selecciona os melhores vídeos de música das Caraíbas para pôr um sorriso no seu rosto e aquecer o seu coração. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">3600</length>
+    <length units="minutes">5308.9</length>
     
     
     <episode-num system="429">429</episode-num>
@@ -205653,7 +204870,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812100000 +0000" stop="20260812114500 +0000" channel="TRACE_CARIBBEAN">
+  <programme start="20260812100058 +0000" stop="20260812113758 +0000" channel="TRACE_CARIBBEAN">
     
     
     <prod_key_test/>
@@ -205695,7 +204912,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">6300</length>
+    <length units="minutes">5820.1</length>
     
     
     <episode-num system="1236">1236</episode-num>
@@ -205740,7 +204957,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812114500 +0000" stop="20260812160000 +0000" channel="TRACE_CARIBBEAN">
+  <programme start="20260812113758 +0000" stop="20260812160051 +0000" channel="TRACE_CARIBBEAN">
     
     
     <prod_key_test/>
@@ -205782,7 +204999,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">15300</length>
+    <length units="minutes">15773</length>
     
     
     <episode-num system="1232">1232</episode-num>
@@ -205827,94 +205044,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812160000 +0000" stop="20260812170000 +0000" channel="TRACE_CARIBBEAN">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">FOCUS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les meilleures vidéos de ton artiste préféré,Focus est l'émission à ne pas manquer! TRACE Gospel consacre 60 minutes aux plus grands succès de cet artiste.</desc>
-    
-    
-    <title lang="EN">FOCUS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best videos from your favourite artist, Focus is the show not to be missed! TRACE Gospel devotes 60 minutes to this artist's greatest hits. </desc>
-    
-    
-    <title lang="PT">FOCUS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Os melhores vídeos do seu artista preferido, Focus é o espetáculo a não perder! TRACE O Gospel dedica 60 minutos aos maiores êxitos deste artista. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="174">174</episode-num>
-    
-    
-    <episode-num system="assetID">FOCUS </episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812170000 +0000" stop="20260812180000 +0000" channel="TRACE_CARIBBEAN">
+  <programme start="20260812170058 +0000" stop="20260812180056 +0000" channel="TRACE_CARIBBEAN">
     
     
     <prod_key_test/>
@@ -205956,7 +205086,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3598.3</length>
     
     
     <episode-num system="458">458</episode-num>
@@ -206001,7 +205131,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812180000 +0000" stop="20260812184500 +0000" channel="TRACE_CARIBBEAN">
+  <programme start="20260812180056 +0000" stop="20260812183204 +0000" channel="TRACE_CARIBBEAN">
     
     
     <prod_key_test/>
@@ -206043,7 +205173,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">1868</length>
     
     
     <episode-num system="1897">1897</episode-num>
@@ -206088,7 +205218,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812184500 +0000" stop="20260812190000 +0000" channel="TRACE_CARIBBEAN">
+  <programme start="20260812183204 +0000" stop="20260812205945 +0000" channel="TRACE_CARIBBEAN">
     
     
     <prod_key_test/>
@@ -206130,970 +205260,13 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">900</length>
-    
-    
-    <episode-num system="398">398</episode-num>
-    
-    
-    <episode-num system="assetID">CARIBBEAN VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812190000 +0000" stop="20260812220000 +0000" channel="TRACE_CARIBBEAN">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TRACE Caribbean sélectionne pour toi les meilleurs clips caribbéens pour te donner le sourire et réchauffer ton coeur.</desc>
-    
-    
-    <title lang="EN">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TRACE Caribbean selects the best Caribbean music videos to put a smile on your face and warm your heart. </desc>
-    
-    
-    <title lang="PT">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">A TRACE Caribbean selecciona os melhores vídeos de música das Caraíbas para pôr um sorriso no seu rosto e aquecer o seu coração. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">10800</length>
+    <length units="minutes">8861.2</length>
     
     
     <episode-num system="202">202</episode-num>
     
     
     <episode-num system="assetID">CARIBBEAN VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812220000 +0000" stop="20260813000000 +0000" channel="TRACE_CARIBBEAN">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">TRACE CLASSIC</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TRACE Caribbean vous plonge dans les 90's et le début des années 2000, préparez-vous pour un voyage passionnant à travers le temps.</desc>
-    
-    
-    <title lang="EN">TRACE CLASSIC</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TRACE Caribbean takes you back to the 90's and early 2000's, get ready for an exciting journey through time.</desc>
-    
-    
-    <title lang="PT">TRACE CLASSIC</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">TRACE Caribbean leva-o de volta aos anos 90 e início dos anos 2000, prepare-se para uma emocionante viagem no tempo. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">7200</length>
-    
-    
-    <episode-num system="263">263</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE CLASSIC</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260813000000 +0000" stop="20260813050000 +0000" channel="TRACE_CARIBBEAN">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">NIGHT SESSION</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Rendez-vous dans Night Session !</desc>
-    
-    
-    <title lang="EN">NIGHT SESSION</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Got insomnia? Or want to spend the night with some music? Check out Night Session!</desc>
-    
-    
-    <title lang="PT">NIGHT SESSION</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Tem insónias? Ou quer passar a noite com música? Veja a Night Session! </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">18000</length>
-    
-    
-    <episode-num system="2185">2185</episode-num>
-    
-    
-    <episode-num system="assetID">NIGHT SESSION</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260813050000 +0000" stop="20260813080000 +0000" channel="TRACE_CARIBBEAN">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">GOOD MORNING TRACE</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">De la musique pour bien commencer la matinée et se réchauffer pour le reste de la journée.</desc>
-    
-    
-    <title lang="EN">GOOD MORNING TRACE</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Music to start the morning and warm up for the rest of the day.</desc>
-    
-    
-    <title lang="PT">GOOD MORNING TRACE</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Música para começar a manhã e aquecer para o resto do dia.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">10800</length>
-    
-    
-    <episode-num system="1839">1839</episode-num>
-    
-    
-    <episode-num system="assetID">GOOD MORNING TRACE</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260813080000 +0000" stop="20260813084500 +0000" channel="TRACE_CARIBBEAN">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">HIT 10</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Le classement quotidien des 10 meilleurs titres urbains du moment, uniquement sur TRACE Urban.</desc>
-    
-    
-    <title lang="EN">HIT 10</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The daily ranking of the 10 best urban tracks of the moment, only on TRACE Urban. </desc>
-    
-    
-    <title lang="PT">HIT 10</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">A classificação diária dos 10 melhores títulos urbanos do momento, apenas no TRACE Urban.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">2700</length>
-    
-    
-    <episode-num system="1898">1898</episode-num>
-    
-    
-    <episode-num system="assetID">HIT 10</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260813084500 +0000" stop="20260813180000 +0000" channel="TRACE_CARIBBEAN">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TRACE Caribbean sélectionne pour toi les meilleurs clips caribbéens pour te donner le sourire et réchauffer ton coeur.</desc>
-    
-    
-    <title lang="EN">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TRACE Caribbean selects the best Caribbean music videos to put a smile on your face and warm your heart. </desc>
-    
-    
-    <title lang="PT">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">A TRACE Caribbean selecciona os melhores vídeos de música das Caraíbas para pôr um sorriso no seu rosto e aquecer o seu coração. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">33300</length>
-    
-    
-    <episode-num system="137">137</episode-num>
-    
-    
-    <episode-num system="assetID">CARIBBEAN VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260813180000 +0000" stop="20260813184500 +0000" channel="TRACE_CARIBBEAN">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">HIT 10</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Le classement quotidien des 10 meilleurs titres urbains du moment, uniquement sur TRACE Urban.</desc>
-    
-    
-    <title lang="EN">HIT 10</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The daily ranking of the 10 best urban tracks of the moment, only on TRACE Urban. </desc>
-    
-    
-    <title lang="PT">HIT 10</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">A classificação diária dos 10 melhores títulos urbanos do momento, apenas no TRACE Urban.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">2700</length>
-    
-    
-    <episode-num system="1899">1899</episode-num>
-    
-    
-    <episode-num system="assetID">HIT 10</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260813184500 +0000" stop="20260813190000 +0000" channel="TRACE_CARIBBEAN">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TRACE Caribbean sélectionne pour toi les meilleurs clips caribbéens pour te donner le sourire et réchauffer ton coeur.</desc>
-    
-    
-    <title lang="EN">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TRACE Caribbean selects the best Caribbean music videos to put a smile on your face and warm your heart. </desc>
-    
-    
-    <title lang="PT">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">A TRACE Caribbean selecciona os melhores vídeos de música das Caraíbas para pôr um sorriso no seu rosto e aquecer o seu coração. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">900</length>
-    
-    
-    <episode-num system="399">399</episode-num>
-    
-    
-    <episode-num system="assetID">CARIBBEAN VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260813190000 +0000" stop="20260813210000 +0000" channel="TRACE_CARIBBEAN">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TRACE Caribbean sélectionne pour toi les meilleurs clips caribbéens pour te donner le sourire et réchauffer ton coeur.</desc>
-    
-    
-    <title lang="EN">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TRACE Caribbean selects the best Caribbean music videos to put a smile on your face and warm your heart. </desc>
-    
-    
-    <title lang="PT">CARIBBEAN VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">A TRACE Caribbean selecciona os melhores vídeos de música das Caraíbas para pôr um sorriso no seu rosto e aquecer o seu coração. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">7200</length>
-    
-    
-    <episode-num system="1429">1429</episode-num>
-    
-    
-    <episode-num system="assetID">CARIBBEAN VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260813210000 +0000" stop="20260813220000 +0000" channel="TRACE_CARIBBEAN">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">FOCUS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les meilleures vidéos de ton artiste préféré,Focus est l'émission à ne pas manquer! TRACE Gospel consacre 60 minutes aux plus grands succès de cet artiste.</desc>
-    
-    
-    <title lang="EN">FOCUS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best videos from your favourite artist, Focus is the show not to be missed! TRACE Gospel devotes 60 minutes to this artist's greatest hits. </desc>
-    
-    
-    <title lang="PT">FOCUS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Os melhores vídeos do seu artista preferido, Focus é o espetáculo a não perder! TRACE O Gospel dedica 60 minutos aos maiores êxitos deste artista. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="175">175</episode-num>
-    
-    
-    <episode-num system="assetID">FOCUS </episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260813220000 +0000" stop="20260814000000 +0000" channel="TRACE_CARIBBEAN">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">TRACE CLASSIC</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TRACE Caribbean vous plonge dans les 90's et le début des années 2000, préparez-vous pour un voyage passionnant à travers le temps.</desc>
-    
-    
-    <title lang="EN">TRACE CLASSIC</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TRACE Caribbean takes you back to the 90's and early 2000's, get ready for an exciting journey through time.</desc>
-    
-    
-    <title lang="PT">TRACE CLASSIC</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">TRACE Caribbean leva-o de volta aos anos 90 e início dos anos 2000, prepare-se para uma emocionante viagem no tempo. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">7200</length>
-    
-    
-    <episode-num system="264">264</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE CLASSIC</episode-num>
     
     
     <credits/>
@@ -289629,7 +287802,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812000000 +0000" stop="20260812040000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812000000 +0000" stop="20260812040004 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -289671,7 +287844,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">14400</length>
+    <length units="minutes">14404.6</length>
     
     
     <episode-num system="1580">1580</episode-num>
@@ -289716,7 +287889,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812040000 +0000" stop="20260812060000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812040004 +0000" stop="20260812060005 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -289758,7 +287931,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7200.4</length>
     
     
     <episode-num system="1580">1580</episode-num>
@@ -289803,7 +287976,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812060000 +0000" stop="20260812070000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812060005 +0000" stop="20260812070310 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -289845,7 +288018,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3785.2</length>
     
     
     <episode-num system="1579">1579</episode-num>
@@ -289890,7 +288063,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812070000 +0000" stop="20260812080000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812070310 +0000" stop="20260812080000 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -289932,7 +288105,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3409.7</length>
     
     
     <episode-num system="1580">1580</episode-num>
@@ -289977,7 +288150,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812080000 +0000" stop="20260812090000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812080000 +0000" stop="20260812090008 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -290019,7 +288192,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3608</length>
     
     
     <episode-num system="5564">5564</episode-num>
@@ -290064,7 +288237,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812090000 +0000" stop="20260812100000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812090008 +0000" stop="20260812100001 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -290106,7 +288279,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3592.9</length>
     
     
     <episode-num system="2550">2550</episode-num>
@@ -290151,7 +288324,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812100000 +0000" stop="20260812110000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812100001 +0000" stop="20260812110004 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -290193,7 +288366,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3603.4</length>
     
     
     <episode-num system="5565">5565</episode-num>
@@ -290238,7 +288411,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812110000 +0000" stop="20260812120000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812110004 +0000" stop="20260812115955 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -290280,7 +288453,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3590.9</length>
     
     
     <episode-num system="5566">5566</episode-num>
@@ -290325,7 +288498,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812120000 +0000" stop="20260812130000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812115955 +0000" stop="20260812130003 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -290367,7 +288540,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3608.4</length>
     
     
     <episode-num system="5567">5567</episode-num>
@@ -290412,94 +288585,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812130000 +0000" stop="20260812140000 +0000" channel="TRACE_GOSPEL_ROA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">SUNNY VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Tous les week-end, retrouvez la playlist qui embellira votre samedi et dimanche avec votre nouvelle émission Sunny Vibes.</desc>
-    
-    
-    <title lang="EN">SUNNY VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Every weekend, find the playlist that will brighten up your Saturday and Sunday with your new programme Sunny Vibes.</desc>
-    
-    
-    <title lang="PT">SUNNY VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Todos os fins-de-semana, encontre a lista de reprodução que vai animar o seu sábado e domingo com o seu novo programa Sunny Vibes.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1938">1938</episode-num>
-    
-    
-    <episode-num system="assetID">SUNNY VIBES </episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812140000 +0000" stop="20260812150000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812140006 +0000" stop="20260812142840 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -290541,7 +288627,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">1713.5</length>
     
     
     <episode-num system="5568">5568</episode-num>
@@ -290586,7 +288672,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812150000 +0000" stop="20260812160000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812150010 +0000" stop="20260812160024 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -290628,7 +288714,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3613.4</length>
     
     
     <episode-num system="1833">1833</episode-num>
@@ -290673,7 +288759,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812160000 +0000" stop="20260812170000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812160024 +0000" stop="20260812170601 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -290715,7 +288801,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3937.3</length>
     
     
     <episode-num system="1760">1760</episode-num>
@@ -290760,7 +288846,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812170000 +0000" stop="20260812180000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812170601 +0000" stop="20260812171954 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -290802,7 +288888,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">833.1</length>
     
     
     <episode-num system="5569">5569</episode-num>
@@ -290847,7 +288933,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812180000 +0000" stop="20260812190000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812180008 +0000" stop="20260812190011 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -290889,7 +288975,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3602.4</length>
     
     
     <episode-num system="3245">3245</episode-num>
@@ -290934,7 +289020,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812190000 +0000" stop="20260812200000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812190011 +0000" stop="20260812200007 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -290976,7 +289062,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3596.3</length>
     
     
     <episode-num system="5570">5570</episode-num>
@@ -291021,7 +289107,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812200000 +0000" stop="20260812210000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812200007 +0000" stop="20260812210005 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -291063,7 +289149,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3597.8</length>
     
     
     <episode-num system="5571">5571</episode-num>
@@ -291108,7 +289194,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812210000 +0000" stop="20260812220000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812210005 +0000" stop="20260812220016 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -291150,7 +289236,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3611.5</length>
     
     
     <episode-num system="5572">5572</episode-num>
@@ -291195,7 +289281,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812220000 +0000" stop="20260812230000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812220016 +0000" stop="20260812230009 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -291237,7 +289323,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3593</length>
     
     
     <episode-num system="1657">1657</episode-num>
@@ -291282,7 +289368,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812230000 +0000" stop="20260813000000 +0000" channel="TRACE_GOSPEL_ROA">
+  <programme start="20260812230009 +0000" stop="20260813000020 +0000" channel="TRACE_GOSPEL_ROA">
     
     
     <prod_key_test/>
@@ -291324,7 +289410,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3610.2</length>
     
     
     <episode-num system="1580">1580</episode-num>
@@ -334068,7 +332154,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812000000 +0000" stop="20260812010000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812000000 +0000" stop="20260812010002 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -334110,7 +332196,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3602.5</length>
     
     
     <episode-num system="1117">1117</episode-num>
@@ -334155,7 +332241,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812010000 +0000" stop="20260812040000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812010002 +0000" stop="20260812035957 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -334197,7 +332283,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10795.4</length>
     
     
     <episode-num system="1114">1114</episode-num>
@@ -334242,163 +332328,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812040000 +0000" stop="20260812050000 +0000" channel="TRACE_AFRICA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">SOUNDS OF CONGO</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR"/>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="32">32</episode-num>
-    
-    
-    <episode-num system="assetID">SOUNDS OF CONGO </episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812050000 +0000" stop="20260812060000 +0000" channel="TRACE_AFRICA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TRACE VIDEOMIX BY DJ BDK</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best videos from Africa mixed by VJ BDK.</desc>
-    
-    
-    <title lang="FR">TRACE VIDEOMIX BY DJ BDK</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">VIDEO MIX c'est une heure de programmation originale sélectionnée par VJ BDK : une expérience musicale et visuelle hors du commun, en exclusivité sur TRACE Africa.</desc>
-    
-    
-    <title lang="PT">TRACE VIDEOMIX BY DJ BDK</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">VIDEO MIX é uma hora de programação original selecionada pelo VJ BDK: uma experiência musical e visual extraordinária, exclusivamente na TRACE Africa.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1131">1131</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE VIDEOMIX BY DJ BDK</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812060000 +0000" stop="20260812080000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812055625 +0000" stop="20260812080001 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -334440,7 +332370,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7416.8</length>
     
     
     <episode-num system="1526">1526</episode-num>
@@ -334485,7 +332415,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812080000 +0000" stop="20260812084500 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812080001 +0000" stop="20260812083819 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -334527,7 +332457,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2297.3</length>
     
     
     <episode-num system="452">452</episode-num>
@@ -334572,7 +332502,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812084500 +0000" stop="20260812090000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812083819 +0000" stop="20260812085937 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -334614,7 +332544,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1278.1</length>
     
     
     <episode-num system="745">745</episode-num>
@@ -334659,7 +332589,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812090000 +0000" stop="20260812100000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812085937 +0000" stop="20260812095945 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -334701,7 +332631,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3607.9</length>
     
     
     <episode-num system="1394">1394</episode-num>
@@ -334746,7 +332676,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812100000 +0000" stop="20260812114500 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812095945 +0000" stop="20260812115413 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -334788,7 +332718,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">6300</length>
+    <length units="minutes">6867.9</length>
     
     
     <episode-num system="1131">1131</episode-num>
@@ -334833,7 +332763,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812114500 +0000" stop="20260812120000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812115413 +0000" stop="20260812120012 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -334875,7 +332805,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">359.6</length>
     
     
     <episode-num system="746">746</episode-num>
@@ -334920,7 +332850,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812120000 +0000" stop="20260812130000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812120012 +0000" stop="20260812125946 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -334962,7 +332892,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3573.1</length>
     
     
     <episode-num system="1467">1467</episode-num>
@@ -335007,7 +332937,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812130000 +0000" stop="20260812140000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812125946 +0000" stop="20260812134924 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -335049,7 +332979,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">2978.7</length>
     
     
     <episode-num system="157">157</episode-num>
@@ -335094,7 +333024,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812140000 +0000" stop="20260812150000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812135934 +0000" stop="20260812145930 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -335136,7 +333066,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3596.4</length>
     
     
     <episode-num system="1494">1494</episode-num>
@@ -335181,7 +333111,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812150000 +0000" stop="20260812160000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812145930 +0000" stop="20260812155931 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -335223,7 +333153,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3601</length>
     
     
     <episode-num system="1078">1078</episode-num>
@@ -335268,7 +333198,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812160000 +0000" stop="20260812164500 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812155931 +0000" stop="20260812163703 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -335310,7 +333240,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2252.1</length>
     
     
     <episode-num system="453">453</episode-num>
@@ -335355,7 +333285,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812164500 +0000" stop="20260812170000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812163703 +0000" stop="20260812165926 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -335397,7 +333327,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1343</length>
     
     
     <episode-num system="747">747</episode-num>
@@ -335442,7 +333372,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812170000 +0000" stop="20260812180000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812165926 +0000" stop="20260812175930 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -335484,7 +333414,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3603.8</length>
     
     
     <episode-num system="270">270</episode-num>
@@ -335529,7 +333459,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812180000 +0000" stop="20260812190000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812175930 +0000" stop="20260812185909 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -335553,7 +333483,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3578.3</length>
     
     
     <episode-num system="38">38</episode-num>
@@ -335598,7 +333528,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812190000 +0000" stop="20260812200000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812185909 +0000" stop="20260812195927 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -335640,7 +333570,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3618.4</length>
     
     
     <episode-num system="169">169</episode-num>
@@ -335685,7 +333615,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812200000 +0000" stop="20260812210000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812195927 +0000" stop="20260812205938 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -335727,7 +333657,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3610.6</length>
     
     
     <episode-num system="73">73</episode-num>
@@ -335772,94 +333702,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812210000 +0000" stop="20260812220000 +0000" channel="TRACE_AFRICA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">TRACE MAG </title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les Magazines inédits sur la culture ivoirienne.</desc>
-    
-    
-    <title lang="EN">TRACE MAG </title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Exclusive Ivorian culture magazines.</desc>
-    
-    
-    <title lang="PT">TRACE MAG </title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Revistas inéditas sobre a cultura marfinense. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260824</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="155">155</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE MAG</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260812220000 +0000" stop="20260813000000 +0000" channel="TRACE_AFRICA">
+  <programme start="20260812215941 +0000" stop="20260812235940 +0000" channel="TRACE_AFRICA">
     
     
     <prod_key_test/>
@@ -335901,7 +333744,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7199.4</length>
     
     
     <episode-num system="1281">1281</episode-num>
@@ -420562,7 +418405,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812000000 +0000" stop="20260812004500 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812000000 +0000" stop="20260812003346 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -420604,7 +418447,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2026.6</length>
     
     
     <episode-num system="1193">1193</episode-num>
@@ -420649,7 +418492,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812004500 +0000" stop="20260812010000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812003346 +0000" stop="20260812005911 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -420691,7 +418534,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1524.8</length>
     
     
     <episode-num system="3841">3841</episode-num>
@@ -420736,7 +418579,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812010000 +0000" stop="20260812060000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812005911 +0000" stop="20260812055928 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -420778,7 +418621,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">18000</length>
+    <length units="minutes">18016.9</length>
     
     
     <episode-num system="1859">1859</episode-num>
@@ -420823,7 +418666,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812060000 +0000" stop="20260812090000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812055928 +0000" stop="20260812090056 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -420865,7 +418708,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10888.1</length>
     
     
     <episode-num system="1695">1695</episode-num>
@@ -420910,7 +418753,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812090000 +0000" stop="20260812094500 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812090056 +0000" stop="20260812093653 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -420952,7 +418795,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2157.2</length>
     
     
     <episode-num system="1545">1545</episode-num>
@@ -420997,7 +418840,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812094500 +0000" stop="20260812100000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812093653 +0000" stop="20260812100721 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -421039,7 +418882,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1827.3</length>
     
     
     <episode-num system="3842">3842</episode-num>
@@ -421084,7 +418927,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812100000 +0000" stop="20260812150000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812100721 +0000" stop="20260812150050 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -421126,7 +418969,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">18000</length>
+    <length units="minutes">17609.5</length>
     
     
     <episode-num system="1492">1492</episode-num>
@@ -421171,7 +419014,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812150000 +0000" stop="20260812160000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812150050 +0000" stop="20260812155946 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -421213,7 +419056,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3535.4</length>
     
     
     <episode-num system="1532">1532</episode-num>
@@ -421258,7 +419101,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812160000 +0000" stop="20260812180000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812155946 +0000" stop="20260812175948 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -421301,7 +419144,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7202.2</length>
     
     
     <episode-num system="1601">1601</episode-num>
@@ -421346,7 +419189,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812180000 +0000" stop="20260812184500 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812175948 +0000" stop="20260812183545 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -421388,7 +419231,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2157.2</length>
     
     
     <episode-num system="1545">1545</episode-num>
@@ -421433,7 +419276,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812184500 +0000" stop="20260812190000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812183545 +0000" stop="20260812190259 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -421475,7 +419318,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1633.9</length>
     
     
     <episode-num system="3843">3843</episode-num>
@@ -421520,7 +419363,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812190000 +0000" stop="20260812200000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812190259 +0000" stop="20260812200258 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -421562,7 +419405,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3598.7</length>
     
     
     <episode-num system="1440">1440</episode-num>
@@ -421607,7 +419450,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812200000 +0000" stop="20260812204500 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812200258 +0000" stop="20260812203827 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -421649,7 +419492,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2129.2</length>
     
     
     <episode-num system="1115">1115</episode-num>
@@ -421694,7 +419537,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812204500 +0000" stop="20260812210000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812203827 +0000" stop="20260812210241 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -421736,7 +419579,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1453.9</length>
     
     
     <episode-num system="3844">3844</episode-num>
@@ -421781,7 +419624,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260812210000 +0000" stop="20260813000000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20260812210241 +0000" stop="20260813000000 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -421823,7 +419666,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260824</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10638.6</length>
     
     
     <episode-num system="1582">1582</episode-num>
