@@ -112303,7 +112303,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260906000000 +0000" stop="20260906060000 +0000" channel="TRACE_JAMA">
+  <programme start="20260906000000 +0000" stop="20260906060019 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -112345,7 +112345,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260917</date>
     
     
-    <length units="minutes">21600</length>
+    <length units="minutes">21619.4</length>
     
     
     <episode-num system="1549">1549</episode-num>
@@ -112390,7 +112390,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260906060000 +0000" stop="20260906100000 +0000" channel="TRACE_JAMA">
+  <programme start="20260906060019 +0000" stop="20260906100020 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -112432,7 +112432,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260917</date>
     
     
-    <length units="minutes">14400</length>
+    <length units="minutes">14400.9</length>
     
     
     <episode-num system="1471">1471</episode-num>
@@ -112477,94 +112477,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260906100000 +0000" stop="20260906110000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">FOCUS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les meilleures vidéos de ton artiste préféré,Focus est l'émission à ne pas manquer! TRACE Gospel consacre 60 minutes aux plus grands succès de cet artiste.</desc>
-    
-    
-    <title lang="EN">FOCUS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best videos from your favourite artist, Focus is the show not to be missed! TRACE Gospel devotes 60 minutes to this artist's greatest hits. </desc>
-    
-    
-    <title lang="PT">FOCUS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Os melhores vídeos do seu artista preferido, Focus é o espetáculo a não perder! TRACE O Gospel dedica 60 minutos aos maiores êxitos deste artista. </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260917</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1339">1339</episode-num>
-    
-    
-    <episode-num system="assetID">FOCUS </episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260906110000 +0000" stop="20260906120000 +0000" channel="TRACE_JAMA">
+  <programme start="20260906110017 +0000" stop="20260906120029 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -112606,7 +112519,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260917</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3611.3</length>
     
     
     <episode-num system="4259">4259</episode-num>
@@ -112651,7 +112564,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260906120000 +0000" stop="20260906140000 +0000" channel="TRACE_JAMA">
+  <programme start="20260906120029 +0000" stop="20260906132847 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -112693,7 +112606,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260917</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">5298</length>
     
     
     <episode-num system="1110">1110</episode-num>
@@ -112738,7 +112651,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260906140000 +0000" stop="20260906200000 +0000" channel="TRACE_JAMA">
+  <programme start="20260906140036 +0000" stop="20260906220037 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -112780,7 +112693,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260917</date>
     
     
-    <length units="minutes">21600</length>
+    <length units="minutes">28801.1</length>
     
     
     <episode-num system="3802">3802</episode-num>
@@ -112825,7 +112738,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260906200000 +0000" stop="20260906220000 +0000" channel="TRACE_JAMA">
+  <programme start="20260906220037 +0000" stop="20260906230023 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -112867,94 +112780,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260917</date>
     
     
-    <length units="minutes">7200</length>
-    
-    
-    <episode-num system="1119">1119</episode-num>
-    
-    
-    <episode-num system="assetID">WEEKEND VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20260906220000 +0000" stop="20260906230000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="FR">WEEKEND VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">WEEKEND VIBES, c'est la playlist incontournable du week-end avec vos hits préférés, préparée avec soin par les équipes de Trace !</desc>
-    
-    
-    <title lang="EN">WEEKEND VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">WEEKEND VIBES is the must-have weekend playlist of your favourite hits, carefully curated by the Trace teams! </desc>
-    
-    
-    <title lang="PT">WEEKEND VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">WEEKEND VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20260917</date>
-    
-    
-    <length units="minutes">3600</length>
+    <length units="minutes">3585.3</length>
     
     
     <episode-num system="4260">4260</episode-num>
@@ -112999,7 +112825,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
   </programme>
   
   
-  <programme start="20260906230000 +0000" stop="20260907000000 +0000" channel="TRACE_JAMA">
+  <programme start="20260906230023 +0000" stop="20260907000037 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113041,7 +112867,7 @@ Assista ao K Pop Hits todas as segundas-feiras às 14:00 e quartas-feiras às 18
     <date>20260917</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3614</length>
     
     
     <episode-num system="1941">1941</episode-num>
