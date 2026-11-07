@@ -77223,93 +77223,6 @@
   </programme>
   
 
-  <programme start="20261106060035 +0000" stop="20261106080053 +0000" channel="TRACE_IVOIRE">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">GOOD MORNING</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Music to start the morning right and set the tone for the day.</desc>
-    
-    
-    <title lang="FR">GOOD MORNING</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">De la musique pour bien commencer la matinée et se réchauffer pour le reste de la journée.</desc>
-    
-    
-    <title lang="PT">GOOD MORNING</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Música para começar a manhã com energia e aquecer para o resto do dia.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261120</date>
-    
-    
-    <length units="minutes">7217.8</length>
-    
-    
-    <episode-num system="692">692</episode-num>
-    
-    
-    <episode-num system="assetID">GOOD MORNING</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
   <programme start="20261107000000 +0000" stop="20261107010005 +0000" channel="TRACE_IVOIRE">
     
     
@@ -77351,7 +77264,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3605.9</length>
@@ -77438,7 +77351,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7169.9</length>
@@ -77525,7 +77438,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3641.7</length>
@@ -77612,7 +77525,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">5990.2</length>
@@ -77701,7 +77614,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3608.3</length>
@@ -77788,7 +77701,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3633.9</length>
@@ -77875,7 +77788,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3576.2</length>
@@ -77962,7 +77875,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7213.1</length>
@@ -78049,7 +77962,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10805.1</length>
@@ -78136,7 +78049,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">5968.2</length>
@@ -78223,7 +78136,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7216.1</length>
@@ -78310,7 +78223,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3610</length>
@@ -78399,7 +78312,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -78489,7 +78402,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -78576,7 +78489,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -78663,7 +78576,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -78750,7 +78663,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -78837,7 +78750,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -78924,7 +78837,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -79011,7 +78924,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -79098,7 +79011,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -79185,7 +79098,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">18000</length>
@@ -79272,7 +79185,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -79359,7 +79272,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -79446,7 +79359,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -79535,7 +79448,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -79625,7 +79538,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -79712,7 +79625,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -79799,7 +79712,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -79886,7 +79799,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">25200</length>
@@ -79973,7 +79886,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -80060,7 +79973,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -80147,7 +80060,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -80234,7 +80147,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -80321,7 +80234,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -80408,7 +80321,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -80495,7 +80408,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -80585,7 +80498,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -80672,7 +80585,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -80759,7 +80672,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -80846,7 +80759,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -80933,7 +80846,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -81020,7 +80933,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -81107,7 +81020,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -81194,7 +81107,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -81281,7 +81194,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -81368,7 +81281,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -81455,7 +81368,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">18000</length>
@@ -81542,7 +81455,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -81629,7 +81542,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -81716,7 +81629,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -81806,7 +81719,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -81893,7 +81806,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -81980,7 +81893,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -82067,7 +81980,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -82154,7 +82067,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -82241,7 +82154,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -82328,7 +82241,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -82415,7 +82328,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -82502,7 +82415,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -82589,7 +82502,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -82676,7 +82589,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -82763,7 +82676,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -82852,7 +82765,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -82942,7 +82855,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -83029,7 +82942,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -83116,7 +83029,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -83203,7 +83116,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -83290,7 +83203,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -83377,7 +83290,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -83464,7 +83377,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -83551,7 +83464,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -83638,7 +83551,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -83725,7 +83638,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">18000</length>
@@ -83812,7 +83725,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -83901,7 +83814,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -83988,7 +83901,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -84075,7 +83988,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -84165,7 +84078,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -84252,7 +84165,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -84339,7 +84252,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -84426,7 +84339,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -84513,7 +84426,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -84600,7 +84513,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -84687,7 +84600,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -84774,7 +84687,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">21600</length>
@@ -84861,7 +84774,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -84948,7 +84861,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -85035,7 +84948,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -85125,7 +85038,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -85212,7 +85125,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -85299,7 +85212,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -85386,7 +85299,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -85473,7 +85386,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -85560,7 +85473,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -85647,7 +85560,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -85734,7 +85647,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -85821,7 +85734,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">18000</length>
@@ -85908,7 +85821,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -85997,7 +85910,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -86087,7 +86000,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -86174,7 +86087,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -86261,7 +86174,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -86348,7 +86261,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -86435,7 +86348,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -86522,7 +86435,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -86609,7 +86522,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -86696,7 +86609,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -86783,7 +86696,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">18000</length>
@@ -86870,7 +86783,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -86957,7 +86870,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -87044,7 +86957,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -87133,7 +87046,7 @@ Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotc
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -87223,7 +87136,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -87310,7 +87223,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -87397,7 +87310,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -87484,7 +87397,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">25200</length>
@@ -87571,7 +87484,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -87658,7 +87571,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -87745,7 +87658,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -87832,7 +87745,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -87919,7 +87832,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -88006,7 +87919,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -88093,7 +88006,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -88183,7 +88096,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -88270,7 +88183,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -88357,7 +88270,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -88444,7 +88357,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -88531,7 +88444,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -88618,7 +88531,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -88705,7 +88618,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -88792,7 +88705,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -88879,7 +88792,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -88966,7 +88879,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -89053,7 +88966,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">18000</length>
@@ -89140,7 +89053,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -89227,7 +89140,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -89314,7 +89227,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -89404,7 +89317,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -89491,7 +89404,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -89578,7 +89491,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -89665,7 +89578,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -89752,7 +89665,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -89839,7 +89752,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -89926,7 +89839,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -90013,7 +89926,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -90100,7 +90013,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -90187,7 +90100,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -90274,7 +90187,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -90361,13 +90274,1062 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
     
     
     <episode-num system="1777">1777</episode-num>
+    
+    
+    <episode-num system="assetID">HIT 10 </episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121000000 +0000" stop="20261121040000 +0000" channel="TRACE_IVOIRE">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">LA NUIT C'EST LA NUIT</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">Sleepless? Stay tuned for all-night music vibes.</desc>
+    
+    
+    <title lang="FR">LA NUIT CEST LA NUIT</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR"> 
+  
+Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotchez sur Trace ivoire car; LA NUIT C'EST LA NUIT, tous les chats sont gris. </desc>
+    
+    
+    <title lang="PT">LA NUIT C'EST LA NUIT</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Insônia? Quer passar a noite na música? Fique ligado na TRACE IVOIRE: LA NUIT C’EST LA NUIT!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">14400</length>
+    
+    
+    <episode-num system="131">131</episode-num>
+    
+    
+    <episode-num system="assetID">LA NUIT C'EST LA NUIT</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121040000 +0000" stop="20261121060000 +0000" channel="TRACE_IVOIRE">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">DU MATIN</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">Morning team here to boost your day with powerful hits.</desc>
+    
+    
+    <title lang="FR">DU MATIN</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">La team matinale, nous sommes là pour vous booster au réveil avec une séléction des titres les plus tonitruands.</desc>
+    
+    
+    <title lang="PT">DU MATIN</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT"> 
+  
+Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
+</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">7200</length>
+    
+    
+    <episode-num system="712">712</episode-num>
+    
+    
+    <episode-num system="assetID">DU MATIN ! </episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121060000 +0000" stop="20261121080000 +0000" channel="TRACE_IVOIRE">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">GOOD MORNING</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">Music to start the morning right and set the tone for the day.</desc>
+    
+    
+    <title lang="FR">GOOD MORNING</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">De la musique pour bien commencer la matinée et se réchauffer pour le reste de la journée.</desc>
+    
+    
+    <title lang="PT">GOOD MORNING</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Música para começar a manhã com energia e aquecer para o resto do dia.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">7200</length>
+    
+    
+    <episode-num system="707">707</episode-num>
+    
+    
+    <episode-num system="assetID">GOOD MORNING</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121080000 +0000" stop="20261121090000 +0000" channel="TRACE_IVOIRE">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">HIT 10 </title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">The 10 hottest Ivorian hits of the week.</desc>
+    
+    
+    <title lang="FR">HIT 10 </title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Chaque semaine, retrouvez les 10 meilleurs titres ivoiriens sur TRACE IVOIRE</desc>
+    
+    
+    <title lang="PT">HIT 10 </title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Toda semana, os 10 melhores hits marfinenses na TRACE IVOIRE.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="1778">1778</episode-num>
+    
+    
+    <episode-num system="assetID">HIT 10 </episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121090000 +0000" stop="20261121100000 +0000" channel="TRACE_IVOIRE">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">ON SENJAILLE</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">The must-have weekend playlist for a perfect vibe.</desc>
+    
+    
+    <title lang="FR">ON SENJAILLE</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">ON S’ENJAILLE ! te propose la meilleure sélection pour vivre un week-end au top</desc>
+    
+    
+    <title lang="PT">ON SENJAILLE</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">A melhor seleção para curtir o fim de semana no auge!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="181">181</episode-num>
+    
+    
+    <episode-num system="assetID">ON S'ENJAILLE</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121100000 +0000" stop="20261121120000 +0000" channel="TRACE_IVOIRE">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">HIT 30</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">The 30 biggest Ivorian hits every week.</desc>
+    
+    
+    <title lang="FR">HIT 30</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Chaque semaine, retrouvez les 30 meilleurs titres ivoiriens sur TRACE IVOIRE.</desc>
+    
+    
+    <title lang="PT">HIT 30</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Toda semana, os 30 melhores hits marfinenses na TRACE IVOIRE.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">7200</length>
+    
+    
+    <episode-num system="316">316</episode-num>
+    
+    
+    <episode-num system="assetID">HIT 30</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121120000 +0000" stop="20261121150000 +0000" channel="TRACE_IVOIRE">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">ON S'ENJAILLE !</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">A festive playlist to officially launch the weekend on TRACE Africa</desc>
+    
+    
+    <title lang="FR">ON S'ENJAILLE !</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Une playlist festive pour lancer officiellement le week-end sur TRACE Africa</desc>
+    
+    
+    <title lang="PT">ON S'ENJAILLE !</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Uma playlist festiva para lançar oficialmente o fim de semana na TRACE Africa</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">10800</length>
+    
+    
+    <episode-num system="1219">1219</episode-num>
+    
+    
+    <episode-num system="assetID">ON S'ENJAILLE !</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121150000 +0000" stop="20261121160000 +0000" channel="TRACE_IVOIRE">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">ON SENJAILLE</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">The must-have weekend playlist for a perfect vibe.</desc>
+    
+    
+    <title lang="FR">ON SENJAILLE</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">ON S’ENJAILLE ! te propose la meilleure sélection pour vivre un week-end au top</desc>
+    
+    
+    <title lang="PT">ON SENJAILLE</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">A melhor seleção para curtir o fim de semana no auge!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="185">185</episode-num>
+    
+    
+    <episode-num system="assetID">ON S'ENJAILLE</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121160000 +0000" stop="20261121170000 +0000" channel="TRACE_IVOIRE">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">HIT 10 </title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">The 10 hottest Ivorian hits of the week.</desc>
+    
+    
+    <title lang="FR">HIT 10 </title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Chaque semaine, retrouvez les 10 meilleurs titres ivoiriens sur TRACE IVOIRE</desc>
+    
+    
+    <title lang="PT">HIT 10 </title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Toda semana, os 10 melhores hits marfinenses na TRACE IVOIRE.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="1779">1779</episode-num>
+    
+    
+    <episode-num system="assetID">HIT 10 </episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121170000 +0000" stop="20261121180000 +0000" channel="TRACE_IVOIRE">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SAGACITÉ </title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">Pure coupé-décalé energy! SAGACITÉ brings Ivorian party vibes to the max.</desc>
+    
+    
+    <title lang="FR">SAGACITÉ </title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Du coupé-décalé en rafale ! SAGACITÉ, c’est l’esprit festif ivoirien à son sommet, seulement sur TRACE IVOIRE.</desc>
+    
+    
+    <title lang="PT">SAGACITÉ </title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Muito coupé-décalé! SAGACITÉ é o espírito festivo marfinense no seu auge, só na TRACE IVOIRE.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="331">331</episode-num>
+    
+    
+    <episode-num system="assetID">SAGACITÉ </episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121180000 +0000" stop="20261121230000 +0000" channel="TRACE_IVOIRE">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">ON SENJAILLE</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">The must-have weekend playlist for a perfect vibe.</desc>
+    
+    
+    <title lang="FR">ON SENJAILLE</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">ON S’ENJAILLE ! te propose la meilleure sélection pour vivre un week-end au top</desc>
+    
+    
+    <title lang="PT">ON SENJAILLE</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">A melhor seleção para curtir o fim de semana no auge!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">18000</length>
+    
+    
+    <episode-num system="65">65</episode-num>
+    
+    
+    <episode-num system="assetID">ON S'ENJAILLE</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121230000 +0000" stop="20261122000000 +0000" channel="TRACE_IVOIRE">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">HIT 10 </title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">The 10 hottest Ivorian hits of the week.</desc>
+    
+    
+    <title lang="FR">HIT 10 </title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Chaque semaine, retrouvez les 10 meilleurs titres ivoiriens sur TRACE IVOIRE</desc>
+    
+    
+    <title lang="PT">HIT 10 </title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Toda semana, os 10 melhores hits marfinenses na TRACE IVOIRE.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="1780">1780</episode-num>
     
     
     <episode-num system="assetID">HIT 10 </episode-num>
@@ -413042,1050 +414004,6 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
 
-  <programme start="20261106010028 +0000" stop="20261106020421 +0000" channel="TRACE_URBAN_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">ADULT ONLY</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The hottest videos censored on other channels but not on TRACE Urban.</desc>
-    
-    
-    <title lang="FR">ADULT ONLY</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les vidéos les plus Hot censurées sur les autres chaînes mais pas sur TRACE Urban.</desc>
-    
-    
-    <title lang="PT">ADULT ONLY</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Os vídeos mais quentes censurados noutros canais, mas não no TRACE Urban.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261120</date>
-    
-    
-    <length units="minutes">3833.2</length>
-    
-    
-    <episode-num system="2008">2008</episode-num>
-    
-    
-    <episode-num system="assetID">ADULT ONLY</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261106020421 +0000" stop="20261106035748 +0000" channel="TRACE_URBAN_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TRACE BY NIGHT</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Got insomnia? Or do you want to spend the night with music? Watch TRACE BY NIGHT! </desc>
-    
-    
-    <title lang="FR">TRACE BY NIGHT</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Regardez TRACE BY NIGHT !</desc>
-    
-    
-    <title lang="PT">TRACE BY NIGHT</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Tem insónias? Ou quer passar a noite com música? Veja o TRACE BY NIGHT!</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261120</date>
-    
-    
-    <length units="minutes">6806.8</length>
-    
-    
-    <episode-num system="360">360</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE BY NIGHT</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261106035748 +0000" stop="20261106050116 +0000" channel="TRACE_URBAN_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">HITS &amp; LYRICS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Tune in to Trace and turn your living room into a karaoke room for 60 minutes, with the best music videos with subtitles. </desc>
-    
-    
-    <title lang="FR">HITS &amp; LYRICS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Branche-toi sur Trace, transforme ton salon en salle de Karaoké pendant 60 minutes avec le meilleur des clips sous-titrés.</desc>
-    
-    
-    <title lang="PT">HITS &amp; LYRICS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Ligue-se ao Trace e transforme a sua sala de estar numa sala de karaoke durante 60 minutos com os melhores clips legendados.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261120</date>
-    
-    
-    <length units="minutes">3807.2</length>
-    
-    
-    <episode-num system="1630">1630</episode-num>
-    
-    
-    <episode-num system="assetID">HITS &amp; LYRICS</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261106050116 +0000" stop="20261106075857 +0000" channel="TRACE_URBAN_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">GOOD MORNING TRACE</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Music to start the morning off right and warm you up for the rest of the day.</desc>
-    
-    
-    <title lang="FR">GOOD MORNING TRACE</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">De la musique pour bien commencer la matinée et se réchauffer pour le reste de la journée.</desc>
-    
-    
-    <title lang="PT">GOOD MORNING TRACE</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Música para começar bem a manhã e aquecer o resto do dia.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261120</date>
-    
-    
-    <length units="minutes">10661.5</length>
-    
-    
-    <episode-num system="357">357</episode-num>
-    
-    
-    <episode-num system="assetID">GOOD MORNING TRACE</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261106075857 +0000" stop="20261106085748 +0000" channel="TRACE_URBAN_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">THANKS GOD IT'S FRIDAY</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TGIF is the kickoff to your weekend! Enjoy a selection of Hits that have been chosen just for you!</desc>
-    
-    
-    <title lang="FR">THANKS GOD IT'S FRIDAY</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TGIF marque le début de votre week-end ! Profitez d'une sélection de tubes choisis spécialement pour vous !</desc>
-    
-    
-    <title lang="PT">THANKS GOD IT'S FRIDAY</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">TGIF é o pontapé inicial para o seu fim de semana! Desfrute de uma seleção de sucessos escolhidos especialmente para você!</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261120</date>
-    
-    
-    <length units="minutes">3531.3</length>
-    
-    
-    <episode-num system="1476">1476</episode-num>
-    
-    
-    <episode-num system="assetID">THANKS GOD IT'S FRIDAY</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261106085748 +0000" stop="20261106094917 +0000" channel="TRACE_URBAN_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TRACE DOC</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Unique documentaries on Ivorian culture.</desc>
-    
-    
-    <title lang="FR">TRACE DOC</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les documentaires uniques sur la culture ivoirienne</desc>
-    
-    
-    <title lang="PT">TRACE DOC</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Documentários exclusivos sobre a cultura marfinense.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261120</date>
-    
-    
-    <length units="minutes">3088.6</length>
-    
-    
-    <episode-num system="138">138</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE DOC</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261106094917 +0000" stop="20261106105906 +0000" channel="TRACE_URBAN_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">100% LADIES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">100% LADIES features a selection of the best female artists of the moment! An hour of 100% girl power!</desc>
-    
-    
-    <title lang="FR">100% LADIES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Avec 100% LADIES, retrouvez une sélection des meilleures artistes féminines du moment ! Une heure 100% girl power !</desc>
-    
-    
-    <title lang="PT">100% LADIES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">100% LADIES apresenta uma seleção das melhores artistas femininas do momento! Uma hora de 100% girl power!</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261120</date>
-    
-    
-    <length units="minutes">4189.1</length>
-    
-    
-    <episode-num system="100">100</episode-num>
-    
-    
-    <episode-num system="assetID">100% LADIES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261106120244 +0000" stop="20261106175838 +0000" channel="TRACE_URBAN_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">THANKS GOD IT'S FRIDAY</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TGIF is the kickoff to your weekend! Enjoy a selection of Hits that have been chosen just for you!</desc>
-    
-    
-    <title lang="FR">THANKS GOD IT'S FRIDAY</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TGIF is the kickoff to your weekend! Enjoy a selection of Hits that have been chosen just for you!</desc>
-    
-    
-    <title lang="PT">THANKS GOD IT'S FRIDAY</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">TGIF é o pontapé inicial para o seu fim de semana! Desfrute de uma seleção de sucessos escolhidos especialmente para você!</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261120</date>
-    
-    
-    <length units="minutes">21354.5</length>
-    
-    
-    <episode-num system="1014">1014</episode-num>
-    
-    
-    <episode-num system="assetID">THANKS GOD IT'S FRIDAY</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261106175838 +0000" stop="20261106183124 +0000" channel="TRACE_URBAN_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">HIT 10</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The daily ranking of the 10 best urban tracks of the moment, only on TRACE Urban. </desc>
-    
-    
-    <title lang="FR">HIT 10</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Le classement quotidien des 10 meilleurs titres urbains du moment, uniquement sur TRACE Urban.</desc>
-    
-    
-    <title lang="PT">HIT 10</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">A classificação diária dos 10 melhores títulos urbanos do momento, apenas no TRACE Urban.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261120</date>
-    
-    
-    <length units="minutes">1966</length>
-    
-    
-    <episode-num system="382">382</episode-num>
-    
-    
-    <episode-num system="assetID">HIT 10</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261106183124 +0000" stop="20261106205825 +0000" channel="TRACE_URBAN_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">THANKS GOD IT'S FRIDAY</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TGIF is the kickoff to your weekend! Enjoy a selection of Hits that have been chosen just for you!</desc>
-    
-    
-    <title lang="FR">THANKS GOD IT'S FRIDAY</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TGIF marque le début de votre week-end ! Profitez d'une sélection de tubes choisis spécialement pour vous !</desc>
-    
-    
-    <title lang="PT">THANKS GOD IT'S FRIDAY</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">TGIF é o pontapé inicial para o seu fim de semana! Desfrute de uma seleção de sucessos escolhidos especialmente para você!</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261120</date>
-    
-    
-    <length units="minutes">8820.5</length>
-    
-    
-    <episode-num system="1459">1459</episode-num>
-    
-    
-    <episode-num system="assetID">THANKS GOD IT'S FRIDAY</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261106205825 +0000" stop="20261106225357 +0000" channel="TRACE_URBAN_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TRACE LIVE</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Live music with the best afro-urban artists. </desc>
-    
-    
-    <title lang="FR">TRACE LIVE</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TRACE LIVE te propose une expérience musicale en direct avec les plus grands artistes afro-urbains</desc>
-    
-    
-    <title lang="PT">TRACE LIVE</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Experiência musical ao vivo com os maiores artistas afro-urbanos.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261120</date>
-    
-    
-    <length units="minutes">6932.3</length>
-    
-    
-    <episode-num system="90">90</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE LIVE</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261106225357 +0000" stop="20261106235907 +0000" channel="TRACE_URBAN_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">STREET CRED</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Artists from the French-speaking underground hip hop scene come for a daily dose of authenticity.</desc>
-    
-    
-    <title lang="FR">STREET CRED</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les artistes de la scène underground hip hop francophone s'invitent pour une dose quotidienne d'authenticité.</desc>
-    
-    
-    <title lang="PT">STREET CRED</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Artistas da cena hip hop underground de língua francesa vêm em busca de uma dose diária de autenticidade.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261120</date>
-    
-    
-    <length units="minutes">3910</length>
-    
-    
-    <episode-num system="1945">1945</episode-num>
-    
-    
-    <episode-num system="assetID">STREET CRED</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
   <programme start="20261107000000 +0000" stop="20261107005903 +0000" channel="TRACE_URBAN_FR">
     
     
@@ -414125,7 +414043,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3543.2</length>
@@ -414212,7 +414130,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3492.8</length>
@@ -414299,7 +414217,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7408.7</length>
@@ -414386,7 +414304,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3609</length>
@@ -414473,7 +414391,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10852.4</length>
@@ -414560,7 +414478,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3529.9</length>
@@ -414647,7 +414565,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7116.7</length>
@@ -414734,7 +414652,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">4167.6</length>
@@ -414821,7 +414739,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3832.8</length>
@@ -414908,7 +414826,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">17787.5</length>
@@ -414995,7 +414913,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3230</length>
@@ -415082,7 +415000,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3659.2</length>
@@ -415169,7 +415087,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3770.3</length>
@@ -415256,7 +415174,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3489.4</length>
@@ -415343,7 +415261,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7261</length>
@@ -415430,7 +415348,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3455</length>
@@ -415517,7 +415435,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10855.7</length>
@@ -415604,7 +415522,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3716.9</length>
@@ -415691,7 +415609,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">25415.5</length>
@@ -415778,7 +415696,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3924.5</length>
@@ -415865,7 +415783,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">6941.4</length>
@@ -415952,7 +415870,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3598.9</length>
@@ -416039,7 +415957,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3556.1</length>
@@ -416049,6 +415967,93 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     
     
     <episode-num system="assetID">STREET CRED</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261109000000 +0000" stop="20261109015050 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">TRACE LIVE</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">Live music with the best afro-urban artists. </desc>
+    
+    
+    <title lang="FR">TRACE LIVE</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">TRACE LIVE te propose une expérience musicale en direct avec les plus grands artistes afro-urbains</desc>
+    
+    
+    <title lang="PT">TRACE LIVE</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Experiência musical ao vivo com os maiores artistas afro-urbanos.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">6650.7</length>
+    
+    
+    <episode-num system="90">90</episode-num>
+    
+    
+    <episode-num system="assetID">TRACE LIVE</episode-num>
     
     
     <credits/>
@@ -416108,7 +416113,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -416195,7 +416200,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -416282,7 +416287,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -416369,7 +416374,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -416456,7 +416461,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -416543,7 +416548,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -416630,7 +416635,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -416717,7 +416722,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -416804,7 +416809,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -416891,7 +416896,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -416978,7 +416983,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -417065,7 +417070,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -417152,7 +417157,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -417239,7 +417244,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">4500</length>
@@ -417326,7 +417331,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -417413,7 +417418,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -417482,7 +417487,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -417569,7 +417574,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -417656,7 +417661,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -417743,7 +417748,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -417830,7 +417835,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -417917,7 +417922,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -418004,7 +418009,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -418091,7 +418096,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -418178,7 +418183,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -418265,7 +418270,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -418352,7 +418357,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -418439,7 +418444,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -418526,7 +418531,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -418613,7 +418618,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -418700,7 +418705,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -418787,7 +418792,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -418874,7 +418879,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -418961,7 +418966,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">4500</length>
@@ -419048,7 +419053,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -419135,7 +419140,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -419222,7 +419227,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -419309,7 +419314,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -419396,7 +419401,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -419483,7 +419488,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -419570,7 +419575,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -419657,7 +419662,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -419744,7 +419749,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -419831,7 +419836,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -419918,7 +419923,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -420005,7 +420010,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -420092,7 +420097,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -420179,7 +420184,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -420266,7 +420271,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -420353,7 +420358,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -420440,7 +420445,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -420527,7 +420532,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -420614,7 +420619,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">4500</length>
@@ -420701,7 +420706,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -420788,7 +420793,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -420875,7 +420880,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -420962,7 +420967,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -421031,7 +421036,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -421118,7 +421123,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -421205,7 +421210,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -421292,7 +421297,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -421379,7 +421384,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -421466,7 +421471,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -421553,7 +421558,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -421640,7 +421645,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -421727,7 +421732,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -421814,7 +421819,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -421901,7 +421906,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -421988,7 +421993,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -422075,7 +422080,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -422162,7 +422167,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -422249,7 +422254,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -422336,7 +422341,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -422423,7 +422428,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -422510,7 +422515,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -422597,7 +422602,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -422684,7 +422689,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -422771,7 +422776,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -422858,7 +422863,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -422945,7 +422950,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -423014,7 +423019,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -423101,7 +423106,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -423188,7 +423193,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -423275,7 +423280,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -423362,7 +423367,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -423449,7 +423454,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -423536,7 +423541,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -423623,7 +423628,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -423710,7 +423715,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -423797,7 +423802,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -423884,7 +423889,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -423953,7 +423958,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -424040,7 +424045,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -424127,7 +424132,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -424214,7 +424219,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -424301,7 +424306,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -424388,7 +424393,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">1800</length>
@@ -424476,7 +424481,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">1800</length>
@@ -424563,7 +424568,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -424650,7 +424655,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -424737,7 +424742,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -424825,7 +424830,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -424912,7 +424917,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -424999,7 +425004,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -425086,7 +425091,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -425173,7 +425178,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -425260,7 +425265,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -425347,7 +425352,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -425434,7 +425439,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -425521,7 +425526,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -425608,7 +425613,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -425695,7 +425700,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -425782,7 +425787,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -425869,7 +425874,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -425956,7 +425961,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -426043,7 +426048,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -426130,7 +426135,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">18000</length>
@@ -426217,7 +426222,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -426304,7 +426309,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -426391,7 +426396,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -426478,7 +426483,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -426565,7 +426570,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -426652,7 +426657,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -426739,7 +426744,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -426826,7 +426831,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -426913,7 +426918,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -427000,7 +427005,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -427087,7 +427092,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -427174,7 +427179,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -427261,7 +427266,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -427348,7 +427353,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -427435,7 +427440,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -427522,7 +427527,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -427609,7 +427614,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -427678,7 +427683,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -427765,7 +427770,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -427852,7 +427857,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -427939,7 +427944,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -428026,7 +428031,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">4500</length>
@@ -428113,7 +428118,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -428200,7 +428205,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -428287,7 +428292,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -428374,7 +428379,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -428443,7 +428448,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -428530,7 +428535,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -428617,7 +428622,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -428704,7 +428709,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -428791,7 +428796,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -428878,7 +428883,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -428965,7 +428970,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">7200</length>
@@ -429052,7 +429057,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -429139,7 +429144,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -429226,7 +429231,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -429313,7 +429318,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -429400,7 +429405,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -429487,7 +429492,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -429574,7 +429579,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">4500</length>
@@ -429661,7 +429666,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -429748,7 +429753,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -429817,7 +429822,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -429904,7 +429909,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -429991,7 +429996,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -430078,7 +430083,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -430165,7 +430170,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -430252,7 +430257,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -430339,7 +430344,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -430426,7 +430431,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -430513,7 +430518,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -430600,7 +430605,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -430687,7 +430692,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -430774,7 +430779,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -430861,7 +430866,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -430948,7 +430953,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -431035,7 +431040,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -431122,7 +431127,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -431209,7 +431214,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -431296,7 +431301,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">4500</length>
@@ -431383,7 +431388,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -431470,7 +431475,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -431557,7 +431562,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -431644,7 +431649,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -431731,7 +431736,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -431818,7 +431823,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -431905,7 +431910,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -431992,7 +431997,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -432079,7 +432084,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -432166,7 +432171,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -432253,7 +432258,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -432340,7 +432345,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -432427,7 +432432,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -432514,7 +432519,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -432601,7 +432606,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -432688,7 +432693,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -432775,7 +432780,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -432862,7 +432867,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -432949,7 +432954,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">4500</length>
@@ -433036,7 +433041,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -433123,7 +433128,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -433210,7 +433215,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -433297,7 +433302,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -433366,7 +433371,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -433453,7 +433458,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -433540,7 +433545,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -433627,7 +433632,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -433714,7 +433719,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -433801,7 +433806,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">10800</length>
@@ -433888,7 +433893,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -433975,7 +433980,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -434062,7 +434067,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -434149,7 +434154,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -434236,7 +434241,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -434323,7 +434328,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -434410,7 +434415,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -434497,7 +434502,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -434584,7 +434589,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">14400</length>
@@ -434671,7 +434676,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -434758,7 +434763,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -434845,7 +434850,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -434932,7 +434937,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -435019,7 +435024,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">900</length>
@@ -435106,7 +435111,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">2700</length>
@@ -435175,7 +435180,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -435262,7 +435267,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -435349,7 +435354,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
@@ -435436,13 +435441,2257 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <language/>
     
     
-    <date>20261120</date>
+    <date>20261121</date>
     
     
     <length units="minutes">3600</length>
     
     
     <episode-num system="1959">1959</episode-num>
+    
+    
+    <episode-num system="assetID">STREET CRED</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121000000 +0000" stop="20261121010000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">TRACE BY NIGHT</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">Got insomnia? Or do you want to spend the night with music? Watch TRACE BY NIGHT! </desc>
+    
+    
+    <title lang="FR">TRACE BY NIGHT</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Regardez TRACE BY NIGHT !</desc>
+    
+    
+    <title lang="PT">TRACE BY NIGHT</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Tem insónias? Ou quer passar a noite com música? Veja o TRACE BY NIGHT!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="490">490</episode-num>
+    
+    
+    <episode-num system="assetID">TRACE BY NIGHT</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121010000 +0000" stop="20261121020000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">ADULT ONLY</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">The hottest videos censored on other channels but not on TRACE Urban.</desc>
+    
+    
+    <title lang="FR">ADULT ONLY</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Les vidéos les plus Hot censurées sur les autres chaînes mais pas sur TRACE Urban.</desc>
+    
+    
+    <title lang="PT">ADULT ONLY</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Os vídeos mais quentes censurados noutros canais, mas não no TRACE Urban.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="2023">2023</episode-num>
+    
+    
+    <episode-num system="assetID">ADULT ONLY</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121020000 +0000" stop="20261121030000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">TRACE BY NIGHT</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">Got insomnia? Or do you want to spend the night with music? Watch TRACE BY NIGHT! </desc>
+    
+    
+    <title lang="FR">TRACE BY NIGHT</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Regardez TRACE BY NIGHT !</desc>
+    
+    
+    <title lang="PT">TRACE BY NIGHT</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Tem insónias? Ou quer passar a noite com música? Veja o TRACE BY NIGHT!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="389">389</episode-num>
+    
+    
+    <episode-num system="assetID">TRACE BY NIGHT</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121030000 +0000" stop="20261121040000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">TRACE BY NIGHT</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">Got insomnia? Or do you want to spend the night with music? Watch TRACE BY NIGHT! </desc>
+    
+    
+    <title lang="FR">TRACE BY NIGHT</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Regardez TRACE BY NIGHT !</desc>
+    
+    
+    <title lang="PT">TRACE BY NIGHT</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Tem insónias? Ou quer passar a noite com música? Veja o TRACE BY NIGHT!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="390">390</episode-num>
+    
+    
+    <episode-num system="assetID">TRACE BY NIGHT</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121040000 +0000" stop="20261121050000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">HITS &amp; LYRICS</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">Tune in to Trace and turn your living room into a karaoke room for 60 minutes, with the best music videos with subtitles. </desc>
+    
+    
+    <title lang="FR">HITS &amp; LYRICS</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Branche-toi sur Trace, transforme ton salon en salle de Karaoké pendant 60 minutes avec le meilleur des clips sous-titrés.</desc>
+    
+    
+    <title lang="PT">HITS &amp; LYRICS</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Ligue-se ao Trace e transforme a sua sala de estar numa sala de karaoke durante 60 minutos com os melhores clips legendados.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="1645">1645</episode-num>
+    
+    
+    <episode-num system="assetID">HITS &amp; LYRICS</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121050000 +0000" stop="20261121080000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">GOOD MORNING TRACE</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">Music to start the morning off right and warm you up for the rest of the day.</desc>
+    
+    
+    <title lang="FR">GOOD MORNING TRACE</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">De la musique pour bien commencer la matinée et se réchauffer pour le reste de la journée.</desc>
+    
+    
+    <title lang="PT">GOOD MORNING TRACE</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Música para começar bem a manhã e aquecer o resto do dia.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">10800</length>
+    
+    
+    <episode-num system="372">372</episode-num>
+    
+    
+    <episode-num system="assetID">GOOD MORNING TRACE</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121080000 +0000" stop="20261121090000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="305">305</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121090000 +0000" stop="20261121100000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title>WORLD WIDE WAKE UP SHOW</title>
+    
+    
+    <category/>
+    
+    
+    <desc/>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="3">3</episode-num>
+    
+    
+    <episode-num system="assetID">WORLD WIDE WAKE UP SHOW</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121100000 +0000" stop="20261121110000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="51">51</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121110000 +0000" stop="20261121120000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="52">52</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121120000 +0000" stop="20261121124500 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">GLOBAL HIT</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">Find all the international hits from the 4 corners of the Globe</desc>
+    
+    
+    <title lang="FR">GLOBAL HIT</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Retrouver tous les tubes internationaux des 4 coins du Globe</desc>
+    
+    
+    <title lang="PT">GLOBAL HIT</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Encontre todos os sucessos internacionais dos 4 cantos do Globo</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">2700</length>
+    
+    
+    <episode-num system="1092">1092</episode-num>
+    
+    
+    <episode-num system="assetID">GLOBAL HIT</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121124500 +0000" stop="20261121130000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">900</length>
+    
+    
+    <episode-num system="136">136</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121130000 +0000" stop="20261121133000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">1800</length>
+    
+    
+    <episode-num system="26">26</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">1800</length>
+    
+    
+    <episode-num system="38">38</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121140000 +0000" stop="20261121150000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="53">53</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121150000 +0000" stop="20261121160000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="73">73</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121160000 +0000" stop="20261121170000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="74">74</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121170000 +0000" stop="20261121180000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="338">338</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121180000 +0000" stop="20261121181500 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">900</length>
+    
+    
+    <episode-num system="169">169</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121181500 +0000" stop="20261121183000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">900</length>
+    
+    
+    <episode-num system="128">128</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121183000 +0000" stop="20261121190000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">1800</length>
+    
+    
+    <episode-num system="27">27</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121190000 +0000" stop="20261121200000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">SATURDAY VIBES</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">SATURDAY VIBES is the must-have weekend playlist of your favorite hits, carefully curated by the Trace teams!</desc>
+    
+    
+    <title lang="FR">SATURDAY VIBES</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">SATURDAY VIBES, c'est la playlist incontournable du week-end avec vos tubes préférés, préparés avec soin par les équipes de Trace !</desc>
+    
+    
+    <title lang="PT">SATURDAY VIBES</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">SATURDAY VIBES é a lista de reprodução obrigatória para o fim de semana com os seus êxitos favoritos, cuidadosamente selecionada pelas equipas da Trace!</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="87">87</episode-num>
+    
+    
+    <episode-num system="assetID">SATURDAY VIBES</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121200000 +0000" stop="20261121210000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">TRACE MAG</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">The magazine of the Caribbean music scene: news, releases, portraits and the stories behind the artists.</desc>
+    
+    
+    <title lang="FR">TRACE MAG</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Le magazine consacré à la scène musicale des Caraïbes : actualités, sorties, portraits et histoires des artistes.</desc>
+    
+    
+    <title lang="PT">TRACE MAG</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">A revista dedicada ao cenário musical caribenho: notícias, lançamentos, retratos e as histórias por trás dos artistas.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="114">114</episode-num>
+    
+    
+    <episode-num system="assetID">TRACE MAG</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121210000 +0000" stop="20261121220000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">DJOUBA</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">Djouba is a selection of the best African hits of the moment.</desc>
+    
+    
+    <title lang="FR">DJOUBA</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Djouba c'est une sélection des meilleurs hits africains du moment.</desc>
+    
+    
+    <title lang="PT">DJOUBA</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Djouba é uma seleção dos melhores hits africanos do momento.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="3">3</episode-num>
+    
+    
+    <episode-num system="assetID">DJOUBA</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121220000 +0000" stop="20261121230000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">TRACE CLASSICS</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">TRACE Urban takes you back to the 90's and early 2000s to find the pioneers of urban music. Get ready for an exciting journey through time.</desc>
+    
+    
+    <title lang="FR">TRACE CLASSICS</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">TRACE Urban takes you back to the 90's and early 2000s to find the pioneers of urban music. Get ready for an exciting journey through time.</desc>
+    
+    
+    <title lang="PT">TRACE CLASSICS</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">TRACE Urban leva você de volta aos anos 90 e início dos anos 2000 para encontrar os pioneiros da música urbana. Prepare-se para uma emocionante viagem no tempo.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="1495">1495</episode-num>
+    
+    
+    <episode-num system="assetID">TRACE CLASSICS</episode-num>
+    
+    
+    <credits/>
+    
+    
+    <video>
+      
+      
+      <present>yes</present>
+      
+      
+      <colour>yes</colour>
+      
+      
+      <quality>1920x1024</quality>
+      
+    
+    </video>
+    
+    
+    <rating/>
+    
+    
+    <audio>
+      
+      
+      <present>yes</present>
+      
+      
+      <stereo>stereo</stereo>
+      
+    
+    </audio>
+    
+  
+  </programme>
+  
+  
+  <programme start="20261121230000 +0000" stop="20261122000000 +0000" channel="TRACE_URBAN_FR">
+    
+    
+    <prod_key_test/>
+    
+    
+    <title lang="EN">STREET CRED</title>
+    
+    
+    <category lang="EN"/>
+    
+    
+    <desc lang="EN">Artists from the French-speaking underground hip hop scene come for a daily dose of authenticity.</desc>
+    
+    
+    <title lang="FR">STREET CRED</title>
+    
+    
+    <category lang="FR"/>
+    
+    
+    <desc lang="FR">Les artistes de la scène underground hip hop francophone s'invitent pour une dose quotidienne d'authenticité.</desc>
+    
+    
+    <title lang="PT">STREET CRED</title>
+    
+    
+    <category lang="PT"/>
+    
+    
+    <desc lang="PT">Artistas da cena hip hop underground de língua francesa vêm em busca de uma dose diária de autenticidade.</desc>
+    
+    
+    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
+    
+    
+    <language/>
+    
+    
+    <date>20261121</date>
+    
+    
+    <length units="minutes">3600</length>
+    
+    
+    <episode-num system="1960">1960</episode-num>
     
     
     <episode-num system="assetID">STREET CRED</episode-num>
