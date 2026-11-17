@@ -974,7 +974,7 @@
   </programme>
   
   
-  <programme start="20261118000000 +0000" stop="20261118060000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118000000 +0000" stop="20261118060559 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -1016,7 +1016,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">21600</length>
+    <length units="minutes">21959.1</length>
     
     
     <episode-num system="1846">1846</episode-num>
@@ -1061,7 +1061,7 @@
   </programme>
   
   
-  <programme start="20261118060000 +0000" stop="20261118090000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118060559 +0000" stop="20261118090042 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -1103,7 +1103,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10482.9</length>
     
     
     <episode-num system="1605">1605</episode-num>
@@ -1148,7 +1148,7 @@
   </programme>
   
   
-  <programme start="20261118090000 +0000" stop="20261118110000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118090042 +0000" stop="20261118110033 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -1190,7 +1190,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7191.6</length>
     
     
     <episode-num system="1607">1607</episode-num>
@@ -1235,7 +1235,7 @@
   </programme>
   
   
-  <programme start="20261118110000 +0000" stop="20261118120000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118110033 +0000" stop="20261118120100 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -1277,7 +1277,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3627</length>
     
     
     <episode-num system="177">177</episode-num>
@@ -1322,7 +1322,7 @@
   </programme>
   
   
-  <programme start="20261118120000 +0000" stop="20261118130000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118120100 +0000" stop="20261118130032 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -1364,7 +1364,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3571.2</length>
     
     
     <episode-num system="1606">1606</episode-num>
@@ -1409,7 +1409,7 @@
   </programme>
   
   
-  <programme start="20261118130000 +0000" stop="20261118140000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118130032 +0000" stop="20261118134337 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -1451,7 +1451,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">2585.7</length>
     
     
     <episode-num system="1835">1835</episode-num>
@@ -1496,7 +1496,7 @@
   </programme>
   
   
-  <programme start="20261118140000 +0000" stop="20261118160000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118134337 +0000" stop="20261118160040 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -1538,7 +1538,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">8223.1</length>
     
     
     <episode-num system="1912">1912</episode-num>
@@ -1583,7 +1583,7 @@
   </programme>
   
   
-  <programme start="20261118160000 +0000" stop="20261118170000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118160040 +0000" stop="20261118170033 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -1625,7 +1625,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3592.4</length>
     
     
     <episode-num system="1330">1330</episode-num>
@@ -1670,7 +1670,7 @@
   </programme>
   
   
-  <programme start="20261118170000 +0000" stop="20261118180000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118170033 +0000" stop="20261118173826 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -1712,7 +1712,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">2273.4</length>
     
     
     <episode-num system="165">165</episode-num>
@@ -1757,7 +1757,7 @@
   </programme>
   
   
-  <programme start="20261118180000 +0000" stop="20261118190000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118180105 +0000" stop="20261118190052 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -1799,7 +1799,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3587.6</length>
     
     
     <episode-num system="1395">1395</episode-num>
@@ -1844,7 +1844,7 @@
   </programme>
   
   
-  <programme start="20261118190000 +0000" stop="20261118200000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118190052 +0000" stop="20261118193427 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -1886,7 +1886,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">2015</length>
     
     
     <episode-num system="358">358</episode-num>
@@ -1931,7 +1931,7 @@
   </programme>
   
   
-  <programme start="20261118200000 +0000" stop="20261118210000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118193427 +0000" stop="20261118210056 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -1973,7 +1973,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">5188.4</length>
     
     
     <episode-num system="2598">2598</episode-num>
@@ -2018,7 +2018,7 @@
   </programme>
   
   
-  <programme start="20261118210000 +0000" stop="20261118220000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118210056 +0000" stop="20261118220044 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -2060,7 +2060,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3587.8</length>
     
     
     <episode-num system="193">193</episode-num>
@@ -2105,7 +2105,7 @@
   </programme>
   
   
-  <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="TRACE_TOCA">
+  <programme start="20261118220044 +0000" stop="20261119000103 +0000" channel="TRACE_TOCA">
     
     
     <prod_key_test/>
@@ -2147,7 +2147,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7219.7</length>
     
     
     <episode-num system="1913">1913</episode-num>
@@ -18530,7 +18530,7 @@
   </programme>
   
   
-  <programme start="20261118000000 +0000" stop="20261118020000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118000000 +0000" stop="20261118020015 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -18572,7 +18572,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7215.2</length>
     
     
     <episode-num system="1823">1823</episode-num>
@@ -18617,7 +18617,7 @@
   </programme>
   
   
-  <programme start="20261118020000 +0000" stop="20261118030000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118020015 +0000" stop="20261118030013 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -18659,7 +18659,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3598.7</length>
     
     
     <episode-num system="227">227</episode-num>
@@ -18704,7 +18704,7 @@
   </programme>
   
   
-  <programme start="20261118030000 +0000" stop="20261118060000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118030013 +0000" stop="20261118060024 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -18746,7 +18746,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10810.4</length>
     
     
     <episode-num system="157">157</episode-num>
@@ -18791,7 +18791,7 @@
   </programme>
   
   
-  <programme start="20261118060000 +0000" stop="20261118090000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118060024 +0000" stop="20261118090044 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -18833,7 +18833,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10819.7</length>
     
     
     <episode-num system="157">157</episode-num>
@@ -18878,7 +18878,7 @@
   </programme>
   
   
-  <programme start="20261118090000 +0000" stop="20261118110000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118090044 +0000" stop="20261118110020 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -18920,7 +18920,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7176</length>
     
     
     <episode-num system="135">135</episode-num>
@@ -18965,7 +18965,7 @@
   </programme>
   
   
-  <programme start="20261118110000 +0000" stop="20261118120000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118110020 +0000" stop="20261118115952 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -19007,7 +19007,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3572.7</length>
     
     
     <episode-num system="23">23</episode-num>
@@ -19052,7 +19052,7 @@
   </programme>
   
   
-  <programme start="20261118120000 +0000" stop="20261118150000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118115952 +0000" stop="20261118150012 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -19094,7 +19094,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10819.8</length>
     
     
     <episode-num system="158">158</episode-num>
@@ -19139,7 +19139,7 @@
   </programme>
   
   
-  <programme start="20261118150000 +0000" stop="20261118160000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118150012 +0000" stop="20261118155955 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -19181,7 +19181,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3582.2</length>
     
     
     <episode-num system="595">595</episode-num>
@@ -19226,7 +19226,7 @@
   </programme>
   
   
-  <programme start="20261118160000 +0000" stop="20261118170000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118155955 +0000" stop="20261118170045 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -19268,7 +19268,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3650.8</length>
     
     
     <episode-num system="2027">2027</episode-num>
@@ -19313,94 +19313,7 @@
   </programme>
   
   
-  <programme start="20261118170000 +0000" stop="20261118180000 +0000" channel="TRACE_BRAZUCA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">HITS NON STOP </title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best of international and Brazilian music at various times of the week!  </desc>
-    
-    
-    <title lang="FR">HITS NON STOP </title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Le meilleur de la musique internationale et brésilienne à différents moments de la semaine !  </desc>
-    
-    
-    <title lang="PT">HITS NON STOP </title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">O melhor da música internacional, e brasileira também, em vários momentos da sua semana! </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="859">859</episode-num>
-    
-    
-    <episode-num system="assetID">HITS NON STOP</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118180000 +0000" stop="20261118190000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118180107 +0000" stop="20261118184206 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -19442,7 +19355,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">2458.9</length>
     
     
     <episode-num system="60">60</episode-num>
@@ -19487,7 +19400,7 @@
   </programme>
   
   
-  <programme start="20261118190000 +0000" stop="20261118200000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118190020 +0000" stop="20261118194525 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -19529,7 +19442,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">2705.2</length>
     
     
     <episode-num system="353">353</episode-num>
@@ -19574,7 +19487,7 @@
   </programme>
   
   
-  <programme start="20261118200000 +0000" stop="20261118203000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118210042 +0000" stop="20261118212806 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -19616,163 +19529,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">1800</length>
-    
-    
-    <episode-num system="1899">1899</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE TRENDS</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118203000 +0000" stop="20261118210000 +0000" channel="TRACE_BRAZUCA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">HITS NON STOP</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best of international and Brazilian music at various times of the week!</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">1800</length>
-    
-    
-    <episode-num system="2497">2497</episode-num>
-    
-    
-    <episode-num system="assetID">HITS NON STOP</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118210000 +0000" stop="20261118213000 +0000" channel="TRACE_BRAZUCA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TRACE TRENDS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Art, entrepreneurship and the best of the peripheries at Trace Trends!  </desc>
-    
-    
-    <title lang="FR">TRACE TRENDS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Art, entrepreneurship and the best of the peripheries at Trace Trends!  </desc>
-    
-    
-    <title lang="PT">TRACE TRENDS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Arte, empreendedorismo e o melhor das periferias você vê no Trace Trends! </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">1800</length>
+    <length units="minutes">1644.1</length>
     
     
     <episode-num system="1900">1900</episode-num>
@@ -19817,7 +19574,7 @@
   </programme>
   
   
-  <programme start="20261118213000 +0000" stop="20261118220000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118212806 +0000" stop="20261118220025 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -19841,7 +19598,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">1800</length>
+    <length units="minutes">1938.9</length>
     
     
     <episode-num system="2498">2498</episode-num>
@@ -19886,7 +19643,7 @@
   </programme>
   
   
-  <programme start="20261118220000 +0000" stop="20261118230000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118220025 +0000" stop="20261118223559 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -19928,7 +19685,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">2133.5</length>
     
     
     <episode-num system="2536">2536</episode-num>
@@ -19973,7 +19730,7 @@
   </programme>
   
   
-  <programme start="20261118230000 +0000" stop="20261119000000 +0000" channel="TRACE_BRAZUCA">
+  <programme start="20261118223559 +0000" stop="20261118235029 +0000" channel="TRACE_BRAZUCA">
     
     
     <prod_key_test/>
@@ -20015,7 +19772,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">4470.3</length>
     
     
     <episode-num system="2537">2537</episode-num>
@@ -41115,7 +40872,7 @@
   </programme>
   
   
-  <programme start="20261118000000 +0000" stop="20261118010000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118000000 +0000" stop="20261118010009 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -41157,7 +40914,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3609</length>
     
     
     <episode-num system="2131">2131</episode-num>
@@ -41202,7 +40959,7 @@
   </programme>
   
   
-  <programme start="20261118010000 +0000" stop="20261118050000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118010009 +0000" stop="20261118050012 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -41244,7 +41001,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">14400</length>
+    <length units="minutes">14402.9</length>
     
     
     <episode-num system="1403">1403</episode-num>
@@ -41289,7 +41046,7 @@
   </programme>
   
   
-  <programme start="20261118050000 +0000" stop="20261118060000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118050012 +0000" stop="20261118060509 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -41331,7 +41088,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3897.4</length>
     
     
     <episode-num system="3045">3045</episode-num>
@@ -41376,7 +41133,7 @@
   </programme>
   
   
-  <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118060509 +0000" stop="20261118080012 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -41418,7 +41175,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">6903.1</length>
     
     
     <episode-num system="1443">1443</episode-num>
@@ -41463,7 +41220,7 @@
   </programme>
   
   
-  <programme start="20261118080000 +0000" stop="20261118090000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118080012 +0000" stop="20261118090019 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -41505,7 +41262,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3606.9</length>
     
     
     <episode-num system="2124">2124</episode-num>
@@ -41550,7 +41307,7 @@
   </programme>
   
   
-  <programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118090019 +0000" stop="20261118100008 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -41592,7 +41349,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3588.8</length>
     
     
     <episode-num system="3046">3046</episode-num>
@@ -41637,7 +41394,7 @@
   </programme>
   
   
-  <programme start="20261118100000 +0000" stop="20261118114500 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118100008 +0000" stop="20261118115229 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -41679,7 +41436,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">6300</length>
+    <length units="minutes">6741.5</length>
     
     
     <episode-num system="1217">1217</episode-num>
@@ -41724,86 +41481,7 @@
   </programme>
   
   
-  <programme start="20261118114500 +0000" stop="20261118120000 +0000" channel="TRACE_URBAN_SA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TOO HOT</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Too Hot brings you only bangers, the current hot songs on the streets. If it's hot and certified, you'll find it on this slot. </desc>
-    
-    
-    <title lang="FR">TOO HOT</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Too Hot ne vous propose que des bangers, les chansons les plus en vogue du moment. Si c'est chaud et certifié, vous le trouverez sur ce slot. 
-</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">900</length>
-    
-    
-    <episode-num system="283">283</episode-num>
-    
-    
-    <episode-num system="assetID">TOO HOT</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118120000 +0000" stop="20261118130000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118120015 +0000" stop="20261118130012 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -41846,7 +41524,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3596.4</length>
     
     
     <episode-num system="3112">3112</episode-num>
@@ -41891,7 +41569,7 @@
   </programme>
   
   
-  <programme start="20261118130000 +0000" stop="20261118133000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118130012 +0000" stop="20261118133430 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -41933,7 +41611,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">1800</length>
+    <length units="minutes">2058</length>
     
     
     <episode-num system="1088">1088</episode-num>
@@ -41978,94 +41656,7 @@
   </programme>
   
   
-  <programme start="20261118133000 +0000" stop="20261118140000 +0000" channel="TRACE_URBAN_SA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TOO HOT</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Too Hot brings you only bangers, the current hot songs on the streets. If it's hot and certified, you'll find it on this slot.</desc>
-    
-    
-    <title lang="FR">TOO HOT</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Too Hot vous propose uniquement des bangers, les chansons chaudes du moment dans les rues. S'il fait chaud et certifié, vous le trouverez sur ce slot.</desc>
-    
-    
-    <title lang="PT">TOO HOT</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Too Hot traz para você apenas bangers, as músicas quentes da atualidade nas ruas. Se for quente e certificado, você o encontrará neste slot.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">1800</length>
-    
-    
-    <episode-num system="1627">1627</episode-num>
-    
-    
-    <episode-num system="assetID">TOO HOT</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118140000 +0000" stop="20261118150000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118140007 +0000" stop="20261118150011 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -42108,7 +41699,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3604</length>
     
     
     <episode-num system="3296">3296</episode-num>
@@ -42153,7 +41744,7 @@
   </programme>
   
   
-  <programme start="20261118150000 +0000" stop="20261118153000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118150011 +0000" stop="20261118153425 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -42195,7 +41786,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">1800</length>
+    <length units="minutes">2054</length>
     
     
     <episode-num system="1267">1267</episode-num>
@@ -42240,7 +41831,7 @@
   </programme>
   
   
-  <programme start="20261118153000 +0000" stop="20261118164500 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118153425 +0000" stop="20261118160017 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -42282,7 +41873,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">4500</length>
+    <length units="minutes">1551.6</length>
     
     
     <episode-num system="1355">1355</episode-num>
@@ -42327,7 +41918,7 @@
   </programme>
   
   
-  <programme start="20261118164500 +0000" stop="20261118170000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118163900 +0000" stop="20261118170017 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -42370,7 +41961,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1276.1</length>
     
     
     <episode-num system="1869">1869</episode-num>
@@ -42415,7 +42006,7 @@
   </programme>
   
   
-  <programme start="20261118170000 +0000" stop="20261118180000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118170017 +0000" stop="20261118180005 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -42457,7 +42048,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3588.7</length>
     
     
     <episode-num system="1450">1450</episode-num>
@@ -42502,7 +42093,7 @@
   </programme>
   
   
-  <programme start="20261118180000 +0000" stop="20261118184500 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118180005 +0000" stop="20261118184534 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -42545,7 +42136,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2728.5</length>
     
     
     <episode-num system="59">59</episode-num>
@@ -42590,7 +42181,7 @@
   </programme>
   
   
-  <programme start="20261118184500 +0000" stop="20261118190000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118184534 +0000" stop="20261118190004 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -42624,7 +42215,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">869.9</length>
     
     
     <episode-num system="304">304</episode-num>
@@ -42669,7 +42260,7 @@
   </programme>
   
   
-  <programme start="20261118190000 +0000" stop="20261118200000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118190004 +0000" stop="20261118200004 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -42712,7 +42303,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3600.2</length>
     
     
     <episode-num system="3600">3600</episode-num>
@@ -42757,7 +42348,7 @@
   </programme>
   
   
-  <programme start="20261118200000 +0000" stop="20261118210000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118200004 +0000" stop="20261118210244 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -42781,7 +42372,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3759.3</length>
     
     
     <episode-num system="4">4</episode-num>
@@ -42826,7 +42417,7 @@
   </programme>
   
   
-  <programme start="20261118210000 +0000" stop="20261118220000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118210244 +0000" stop="20261118220012 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -42868,7 +42459,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3448.6</length>
     
     
     <episode-num system="3047">3047</episode-num>
@@ -42913,7 +42504,7 @@
   </programme>
   
   
-  <programme start="20261118220000 +0000" stop="20261118230000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118220012 +0000" stop="20261118230002 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -42955,7 +42546,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3589.6</length>
     
     
     <episode-num system="2125">2125</episode-num>
@@ -43000,7 +42591,7 @@
   </programme>
   
   
-  <programme start="20261118230000 +0000" stop="20261119000000 +0000" channel="TRACE_URBAN_SA">
+  <programme start="20261118230002 +0000" stop="20261119000004 +0000" channel="TRACE_URBAN_SA">
     
     
     <prod_key_test/>
@@ -43042,7 +42633,7 @@
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3602.6</length>
     
     
     <episode-num system="2132">2132</episode-num>
@@ -95594,7 +95185,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118000000 +0000" stop="20261118060000 +0000" channel="TRACE_MZIKI">
+  <programme start="20261118000000 +0000" stop="20261118060009 +0000" channel="TRACE_MZIKI">
     
     
     <prod_key_test/>
@@ -95636,7 +95227,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">21600</length>
+    <length units="minutes">21609.1</length>
     
     
     <episode-num system="1782">1782</episode-num>
@@ -95681,7 +95272,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118060000 +0000" stop="20261118100000 +0000" channel="TRACE_MZIKI">
+  <programme start="20261118060003 +0000" stop="20261118100005 +0000" channel="TRACE_MZIKI">
     
     
     <prod_key_test/>
@@ -95723,7 +95314,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">14400</length>
+    <length units="minutes">14402.2</length>
     
     
     <episode-num system="1748">1748</episode-num>
@@ -95768,7 +95359,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118100000 +0000" stop="20261118120000 +0000" channel="TRACE_MZIKI">
+  <programme start="20261118100005 +0000" stop="20261118114640 +0000" channel="TRACE_MZIKI">
     
     
     <prod_key_test/>
@@ -95810,7 +95401,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">6394.6</length>
     
     
     <episode-num system="1337">1337</episode-num>
@@ -95855,7 +95446,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118120000 +0000" stop="20261118140000 +0000" channel="TRACE_MZIKI">
+  <programme start="20261118120013 +0000" stop="20261118140017 +0000" channel="TRACE_MZIKI">
     
     
     <prod_key_test/>
@@ -95897,7 +95488,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7204</length>
     
     
     <episode-num system="1184">1184</episode-num>
@@ -95942,7 +95533,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118140000 +0000" stop="20261118150000 +0000" channel="TRACE_MZIKI">
+  <programme start="20261118140011 +0000" stop="20261118150004 +0000" channel="TRACE_MZIKI">
     
     
     <prod_key_test/>
@@ -95984,7 +95575,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3593.5</length>
     
     
     <episode-num system="1681">1681</episode-num>
@@ -96029,7 +95620,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118150000 +0000" stop="20261118160000 +0000" channel="TRACE_MZIKI">
+  <programme start="20261118150004 +0000" stop="20261118160006 +0000" channel="TRACE_MZIKI">
     
     
     <prod_key_test/>
@@ -96071,7 +95662,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3601.6</length>
     
     
     <episode-num system="324">324</episode-num>
@@ -96116,7 +95707,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118160000 +0000" stop="20261118170000 +0000" channel="TRACE_MZIKI">
+  <programme start="20261118160006 +0000" stop="20261118163606 +0000" channel="TRACE_MZIKI">
     
     
     <prod_key_test/>
@@ -96158,7 +95749,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">2159.8</length>
     
     
     <episode-num system="433">433</episode-num>
@@ -96203,7 +95794,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118170000 +0000" stop="20261118180000 +0000" channel="TRACE_MZIKI">
+  <programme start="20261118170008 +0000" stop="20261118174838 +0000" channel="TRACE_MZIKI">
     
     
     <prod_key_test/>
@@ -96245,7 +95836,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">2910.2</length>
     
     
     <episode-num system="1531">1531</episode-num>
@@ -96290,7 +95881,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118180000 +0000" stop="20261118190000 +0000" channel="TRACE_MZIKI">
+  <programme start="20261118174838 +0000" stop="20261118190010 +0000" channel="TRACE_MZIKI">
     
     
     <prod_key_test/>
@@ -96332,7 +95923,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">4291.1</length>
     
     
     <episode-num system="2138">2138</episode-num>
@@ -96377,7 +95968,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118190000 +0000" stop="20261118200000 +0000" channel="TRACE_MZIKI">
+  <programme start="20261118190010 +0000" stop="20261118200015 +0000" channel="TRACE_MZIKI">
     
     
     <prod_key_test/>
@@ -96419,7 +96010,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3605.6</length>
     
     
     <episode-num system="1557">1557</episode-num>
@@ -96464,181 +96055,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118200000 +0000" stop="20261118213000 +0000" channel="TRACE_MZIKI">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TRACE LIVE</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TRACE LIVE presents a musical experience that features One artist in a 90-minute musical showcase.</desc>
-    
-    
-    <title lang="FR">TRACE LIVE</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TRACE LIVE te propose une expérience musicale, mettant en vedette un artiste dans un showcase musical de 90 minutes.</desc>
-    
-    
-    <title lang="PT">TRACE LIVE</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">TRACE LIVE apresenta uma experiência musical com um artista em destaque num espetáculo musical de 90 minutos.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">5400</length>
-    
-    
-    <episode-num system="61">61</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE LIVE</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118213000 +0000" stop="20261118220000 +0000" channel="TRACE_MZIKI">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">HITS NON STOP</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Don't stress the small things in life like your favourite HIT song not making it on to the top charts and enjoy a playlist made just for you, compliments of HITS NON' STOP!</desc>
-    
-    
-    <title lang="FR">HITS NON STOP</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Ne stressez pas sur les petites choses de la vie, comme votre chanson HIT préférée qui ne figure pas dans les meilleurs charts et profitez d'une playlist faite juste pour vous, gracieuseté de HITS NON' STOP !</desc>
-    
-    
-    <title lang="PT">HITS NON STOP</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Não se estresse com as pequenas coisas da vida, como sua música HIT favorita não chegar ao topo das paradas e curta uma playlist feita especialmente para você, elogios do HITS NON' STOP!</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">1800</length>
-    
-    
-    <episode-num system="131">131</episode-num>
-    
-    
-    <episode-num system="assetID">HITS NON STOP</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118220000 +0000" stop="20261118230000 +0000" channel="TRACE_MZIKI">
+  <programme start="20261118220008 +0000" stop="20261118230011 +0000" channel="TRACE_MZIKI">
     
     
     <prod_key_test/>
@@ -96680,7 +96097,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3602.6</length>
     
     
     <episode-num system="1565">1565</episode-num>
@@ -96725,7 +96142,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118230000 +0000" stop="20261119000000 +0000" channel="TRACE_MZIKI">
+  <programme start="20261118230005 +0000" stop="20261119000007 +0000" channel="TRACE_MZIKI">
     
     
     <prod_key_test/>
@@ -96767,7 +96184,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3601.9</length>
     
     
     <episode-num system="1762">1762</episode-num>
@@ -112994,7 +112411,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118000000 +0000" stop="20261118060000 +0000" channel="TRACE_JAMA">
+  <programme start="20261118000000 +0000" stop="20261118060021 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113036,7 +112453,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">21600</length>
+    <length units="minutes">21621.6</length>
     
     
     <episode-num system="1622">1622</episode-num>
@@ -113081,7 +112498,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118060000 +0000" stop="20261118100000 +0000" channel="TRACE_JAMA">
+  <programme start="20261118060021 +0000" stop="20261118100028 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113123,7 +112540,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">14400</length>
+    <length units="minutes">14406.6</length>
     
     
     <episode-num system="1534">1534</episode-num>
@@ -113168,7 +112585,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118100000 +0000" stop="20261118120000 +0000" channel="TRACE_JAMA">
+  <programme start="20261118100028 +0000" stop="20261118113226 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113210,7 +112627,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">5518.1</length>
     
     
     <episode-num system="1120">1120</episode-num>
@@ -113255,7 +112672,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118120000 +0000" stop="20261118140000 +0000" channel="TRACE_JAMA">
+  <programme start="20261118120033 +0000" stop="20261118140040 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113297,7 +112714,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7206.5</length>
     
     
     <episode-num system="1671">1671</episode-num>
@@ -113342,94 +112759,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118140000 +0000" stop="20261118150000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">FOCUS </title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Focus is the show you don't want to miss! From love songs to club bangers, TRACE JAMA dey dedicate 60 minutes to your favorite artist's and their jams </desc>
-    
-    
-    <title lang="FR">FOCUS </title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Focus est l'émission que vous ne voulez pas manquer ! De la chanson d'amour au club banger, TRACE JAMA consacre 60 minutes à vos artistes préférés et à leurs morceaux.  </desc>
-    
-    
-    <title lang="PT">FOCUS </title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Focus é o programa que não vai querer perder! Desde canções de amor a êxitos de discoteca, o TRACE JAMA dedica 60 minutos aos seus artistas favoritos e às suas músicas  </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1349">1349</episode-num>
-    
-    
-    <episode-num system="assetID">FOCUS </episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118150000 +0000" stop="20261118170000 +0000" channel="TRACE_JAMA">
+  <programme start="20261118150039 +0000" stop="20261118190050 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113471,94 +112801,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
-    
-    
-    <episode-num system="1717">1717</episode-num>
-    
-    
-    <episode-num system="assetID">HIGHLIFE VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118170000 +0000" stop="20261118180000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best of the best Highlife has to offer, only on Trace JAMA</desc>
-    
-    
-    <title lang="FR">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Le meilleur du meilleur que Highlife a à offrir, uniquement sur Trace JAMA</desc>
-    
-    
-    <title lang="PT">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">O melhor do melhor que Highlife tem a oferecer, apenas no Trace JAMA</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">3600</length>
+    <length units="minutes">14410.5</length>
     
     
     <episode-num system="1654">1654</episode-num>
@@ -113603,94 +112846,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118180000 +0000" stop="20261118190000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best of the best Highlife has to offer, only on Trace JAMA</desc>
-    
-    
-    <title lang="FR">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Le meilleur du meilleur que Highlife a à offrir, uniquement sur Trace JAMA</desc>
-    
-    
-    <title lang="PT">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">O melhor do melhor que Highlife tem a oferecer, apenas no Trace JAMA</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1600">1600</episode-num>
-    
-    
-    <episode-num system="assetID">HIGHLIFE VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118190000 +0000" stop="20261118194500 +0000" channel="TRACE_JAMA">
+  <programme start="20261118190050 +0000" stop="20261118194306 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113732,7 +112888,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2535.9</length>
     
     
     <episode-num system="1543">1543</episode-num>
@@ -113777,7 +112933,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118194500 +0000" stop="20261118200000 +0000" channel="TRACE_JAMA">
+  <programme start="20261118194306 +0000" stop="20261118200052 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113819,7 +112975,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1066.3</length>
     
     
     <episode-num system="1447">1447</episode-num>
@@ -113864,7 +113020,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118200000 +0000" stop="20261118210000 +0000" channel="TRACE_JAMA">
+  <programme start="20261118200052 +0000" stop="20261118210107 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113906,7 +113062,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3614.5</length>
     
     
     <episode-num system="1480">1480</episode-num>
@@ -113951,7 +113107,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118210000 +0000" stop="20261118220000 +0000" channel="TRACE_JAMA">
+  <programme start="20261118210107 +0000" stop="20261118220044 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113993,7 +113149,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3576.9</length>
     
     
     <episode-num system="2066">2066</episode-num>
@@ -114038,7 +113194,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118220000 +0000" stop="20261118230000 +0000" channel="TRACE_JAMA">
+  <programme start="20261118220044 +0000" stop="20261118230054 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -114080,7 +113236,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3610</length>
     
     
     <episode-num system="1439">1439</episode-num>
@@ -114125,7 +113281,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118230000 +0000" stop="20261119000000 +0000" channel="TRACE_JAMA">
+  <programme start="20261118230054 +0000" stop="20261119000059 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -114167,7 +113323,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3604.7</length>
     
     
     <episode-num system="2067">2067</episode-num>
@@ -151154,7 +150310,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118000000 +0000" stop="20261118040000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118000000 +0000" stop="20261118040024 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -151196,7 +150352,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">14400</length>
+    <length units="minutes">14424.8</length>
     
     
     <episode-num system="1633">1633</episode-num>
@@ -151241,7 +150397,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118040000 +0000" stop="20261118044500 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118040024 +0000" stop="20261118044839 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -151283,7 +150439,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2894.7</length>
     
     
     <episode-num system="1443">1443</episode-num>
@@ -151328,94 +150484,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118044500 +0000" stop="20261118050000 +0000" channel="TRACE_GOSPEL_SA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">THE WORD WITH</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The Word With is an inspiring devotional show featuring prominent leaders from the gospel community as they share the Word of God and offer meaningful insights for daily living.</desc>
-    
-    
-    <title lang="FR">THE WORD WITH</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">The Word With est un spectacle de dévotion inspirant mettant en vedette d'éminents dirigeants de la communauté évangélique alors qu'ils partagent la Parole de Dieu et offrent des idées significatives pour la vie quotidienne.</desc>
-    
-    
-    <title lang="PT">THE WORD WITH</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">The Word With é um programa devocional inspirador apresentando líderes proeminentes da comunidade evangélica enquanto eles compartilham a Palavra de Deus e oferecem insights significativos para a vida diária.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">900</length>
-    
-    
-    <episode-num system="2834">2834</episode-num>
-    
-    
-    <episode-num system="assetID">THE WORD WITH</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118050000 +0000" stop="20261118060000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118050019 +0000" stop="20261118060021 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -151457,7 +150526,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3601.6</length>
     
     
     <episode-num system="2269">2269</episode-num>
@@ -151502,7 +150571,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118060021 +0000" stop="20261118070328 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -151544,7 +150613,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">3787.2</length>
     
     
     <episode-num system="1510">1510</episode-num>
@@ -151589,85 +150658,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118080000 +0000" stop="20261118083000 +0000" channel="TRACE_GOSPEL_SA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">LIVING LIFE LOUD</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Living Life Loud celebrates bold creatives and industry leaders who unapologetically live out their Christian faith with confidence and authenticity. </desc>
-    
-    
-    <title lang="FR">LIVING LIFE LOUD</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Living Life Loud met à l'honneur des créatifs audacieux et des leaders de leur secteur qui vivent pleinement leur foi chrétienne avec assurance et authenticité.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">1800</length>
-    
-    
-    <episode-num system="127">127</episode-num>
-    
-    
-    <episode-num system="assetID">LIVING LIFE LOUD</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118083000 +0000" stop="20261118090000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118080342 +0000" stop="20261118090022 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -151709,7 +150700,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">1800</length>
+    <length units="minutes">3400.1</length>
     
     
     <episode-num system="2392">2392</episode-num>
@@ -151754,7 +150745,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118090022 +0000" stop="20261118100028 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -151796,7 +150787,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3606.3</length>
     
     
     <episode-num system="1809">1809</episode-num>
@@ -151841,7 +150832,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118100000 +0000" stop="20261118104500 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118100028 +0000" stop="20261118111125 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -151883,7 +150874,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">4256.7</length>
     
     
     <episode-num system="1175">1175</episode-num>
@@ -151928,7 +150919,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118104500 +0000" stop="20261118110000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118111508 +0000" stop="20261118120036 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -151970,181 +150961,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">900</length>
-    
-    
-    <episode-num system="2181">2181</episode-num>
-    
-    
-    <episode-num system="assetID">GOSPEL HITS</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118110000 +0000" stop="20261118113000 +0000" channel="TRACE_GOSPEL_SA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TRACE SESSION</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Enjoy live performances from the comfort of your home as they showcase their uplifting music and powerful messages. Tune in for soul-stirring performances and be inspired by the best in gospel music, only on Trace Session.</desc>
-    
-    
-    <title lang="FR">TRACE SESSION</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Profitez de performances live dans le confort de votre maison alors qu'ils présentent leur musique inspirante et leurs messages puissants. Écoutez des performances émouvantes et laissez-vous inspirer par le meilleur de la musique gospel, uniquement sur Tra</desc>
-    
-    
-    <title lang="PT">TRACE SESSION</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Desfrute de apresentações ao vivo no conforto da sua casa enquanto elas apresentam músicas edificantes e mensagens poderosas. Sintonize apresentações emocionantes e inspire-se com o que há de melhor na música gospel, apenas no Trace Session.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">1800</length>
-    
-    
-    <episode-num system="1357">1357</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE SESSION</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118113000 +0000" stop="20261118120000 +0000" channel="TRACE_GOSPEL_SA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">GOSPEL HITS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Don’t sweat the small stuff—like your favorite gospel hits not topping the charts. Instead, enjoy a specially curated gospel session just for you, brought to you by Gospel Hits!</desc>
-    
-    
-    <title lang="FR">GOSPEL HITS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Ne vous inquiétez pas des petites choses, comme si vos succès gospel préférés ne sont pas en tête des charts. Au lieu de cela, profitez d'une session gospel spécialement organisée juste pour vous, présentée par Gospel Hits !</desc>
-    
-    
-    <title lang="PT">GOSPEL HITS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Não se preocupe com pequenas coisas – como seus sucessos gospel favoritos que não estão no topo das paradas. Em vez disso, desfrute de uma sessão de gospel especialmente selecionada para você, oferecida pela Gospel Hits!</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">1800</length>
+    <length units="minutes">2728.6</length>
     
     
     <episode-num system="2393">2393</episode-num>
@@ -152189,94 +151006,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118120000 +0000" stop="20261118121500 +0000" channel="TRACE_GOSPEL_SA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">THE WORD WITH</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The Word With is an inspiring devotional show featuring prominent leaders from the gospel community as they share the Word of God and offer meaningful insights for daily living.</desc>
-    
-    
-    <title lang="FR">THE WORD WITH</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">The Word With est un spectacle de dévotion inspirant mettant en vedette d'éminents dirigeants de la communauté évangélique alors qu'ils partagent la Parole de Dieu et offrent des idées significatives pour la vie quotidienne.</desc>
-    
-    
-    <title lang="PT">THE WORD WITH</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">The Word With é um programa devocional inspirador apresentando líderes proeminentes da comunidade evangélica enquanto eles compartilham a Palavra de Deus e oferecem insights significativos para a vida diária.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">900</length>
-    
-    
-    <episode-num system="2835">2835</episode-num>
-    
-    
-    <episode-num system="assetID">THE WORD WITH</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118121500 +0000" stop="20261118130000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118121000 +0000" stop="20261118122709 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -152318,7 +151048,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">1028.6</length>
     
     
     <episode-num system="2464">2464</episode-num>
@@ -152363,94 +151093,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118130000 +0000" stop="20261118133000 +0000" channel="TRACE_GOSPEL_SA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">COFFEE WITH</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">On Coffee With... we get up close and personal, aiming to learn more about the artist beyond what meets the eye, all while they make &amp; enjoy a fresh cup of coffee.</desc>
-    
-    
-    <title lang="FR">COFFEE WITH</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Sur Coffee With... nous nous rapprochons de plus près, dans le but d'en apprendre davantage sur l'artiste au-delà de ce que l'on voit, tout en préparant et en dégustant une tasse de café fraîche.</desc>
-    
-    
-    <title lang="PT">COFFEE WITH</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">No Coffee With... chegamos perto e pessoalmente, com o objetivo de aprender mais sobre o artista além do que aparenta, enquanto eles preparam e saboreiam uma xícara de café fresco.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">1800</length>
-    
-    
-    <episode-num system="1213">1213</episode-num>
-    
-    
-    <episode-num system="assetID">COFFEE WITH</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118133000 +0000" stop="20261118140000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118130217 +0000" stop="20261118140039 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -152492,7 +151135,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">1800</length>
+    <length units="minutes">3502.4</length>
     
     
     <episode-num system="2394">2394</episode-num>
@@ -152537,7 +151180,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118140000 +0000" stop="20261118150000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118140039 +0000" stop="20261118150040 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -152579,7 +151222,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3600.4</length>
     
     
     <episode-num system="1481">1481</episode-num>
@@ -152624,7 +151267,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118150000 +0000" stop="20261118160000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118150040 +0000" stop="20261118160041 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -152666,7 +151309,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3601.8</length>
     
     
     <episode-num system="1860">1860</episode-num>
@@ -152711,7 +151354,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118160000 +0000" stop="20261118170000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118160041 +0000" stop="20261118170043 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -152753,7 +151396,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3601.2</length>
     
     
     <episode-num system="2255">2255</episode-num>
@@ -152798,94 +151441,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118170000 +0000" stop="20261118173000 +0000" channel="TRACE_GOSPEL_SA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">CHILL &amp; REFILL</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Chill and Refill is a relaxed, conversation-driven gathering where we dive into topics that go beyond the usual scope of traditional church settings.</desc>
-    
-    
-    <title lang="FR">CHILL &amp; REFILL</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Chill and recharge est un rassemblement détendu et axé sur la conversation où nous abordons des sujets qui dépassent la portée habituelle des églises traditionnelles.</desc>
-    
-    
-    <title lang="PT">CHILL &amp; REFILL</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Chill and Refill é um encontro descontraído e orientado para conversas, onde mergulhamos em tópicos que vão além do escopo usual dos ambientes tradicionais da igreja.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">1800</length>
-    
-    
-    <episode-num system="1164">1164</episode-num>
-    
-    
-    <episode-num system="assetID">CHILL &amp; REFILL</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118173000 +0000" stop="20261118180000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118170426 +0000" stop="20261118180041 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -152927,7 +151483,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">1800</length>
+    <length units="minutes">3375.9</length>
     
     
     <episode-num system="2395">2395</episode-num>
@@ -152972,7 +151528,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118180000 +0000" stop="20261118190000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118180041 +0000" stop="20261118190041 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -153014,7 +151570,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3599.9</length>
     
     
     <episode-num system="2213">2213</episode-num>
@@ -153059,7 +151615,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118190000 +0000" stop="20261118194500 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118190041 +0000" stop="20261118201131 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -153101,7 +151657,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">4250</length>
     
     
     <episode-num system="1226">1226</episode-num>
@@ -153146,7 +151702,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118194500 +0000" stop="20261118200000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118210042 +0000" stop="20261118220046 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -153188,268 +151744,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">900</length>
-    
-    
-    <episode-num system="2182">2182</episode-num>
-    
-    
-    <episode-num system="assetID">GOSPEL HITS</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118200000 +0000" stop="20261118204500 +0000" channel="TRACE_GOSPEL_SA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">GOSPEL HITS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Don’t sweat the small stuff—like your favorite gospel hits not topping the charts. Instead, enjoy a specially curated gospel session just for you, brought to you by Gospel Hits!</desc>
-    
-    
-    <title lang="FR">GOSPEL HITS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Ne vous inquiétez pas des petites choses, comme si vos succès gospel préférés ne sont pas en tête des charts. Au lieu de cela, profitez d'une session gospel spécialement organisée juste pour vous, présentée par Gospel Hits !</desc>
-    
-    
-    <title lang="PT">GOSPEL HITS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Não se preocupe com pequenas coisas – como seus sucessos gospel favoritos que não estão no topo das paradas. Em vez disso, desfrute de uma sessão de gospel especialmente selecionada para você, oferecida pela Gospel Hits!</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">2700</length>
-    
-    
-    <episode-num system="2465">2465</episode-num>
-    
-    
-    <episode-num system="assetID">GOSPEL HITS</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118204500 +0000" stop="20261118210000 +0000" channel="TRACE_GOSPEL_SA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">THE WORD WITH</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The Word With is an inspiring devotional show featuring prominent leaders from the gospel community as they share the Word of God and offer meaningful insights for daily living.</desc>
-    
-    
-    <title lang="FR">THE WORD WITH</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">The Word With est un spectacle de dévotion inspirant mettant en vedette d'éminents dirigeants de la communauté évangélique alors qu'ils partagent la Parole de Dieu et offrent des idées significatives pour la vie quotidienne.</desc>
-    
-    
-    <title lang="PT">THE WORD WITH</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">The Word With é um programa devocional inspirador apresentando líderes proeminentes da comunidade evangélica enquanto eles compartilham a Palavra de Deus e oferecem insights significativos para a vida diária.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">900</length>
-    
-    
-    <episode-num system="2836">2836</episode-num>
-    
-    
-    <episode-num system="assetID">THE WORD WITH</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118210000 +0000" stop="20261118220000 +0000" channel="TRACE_GOSPEL_SA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">GOSPEL HITS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Don’t sweat the small stuff—like your favorite gospel hits not topping the charts. Instead, enjoy a specially curated gospel session just for you, brought to you by Gospel Hits!</desc>
-    
-    
-    <title lang="FR">GOSPEL HITS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Ne vous inquiétez pas des petites choses, comme si vos succès gospel préférés ne sont pas en tête des charts. Au lieu de cela, profitez d'une session gospel spécialement organisée juste pour vous, présentée par Gospel Hits !</desc>
-    
-    
-    <title lang="PT">GOSPEL HITS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Não se preocupe com pequenas coisas – como seus sucessos gospel favoritos que não estão no topo das paradas. Em vez disso, desfrute de uma sessão de gospel especialmente selecionada para você, oferecida pela Gospel Hits!</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">3600</length>
+    <length units="minutes">3604.1</length>
     
     
     <episode-num system="2015">2015</episode-num>
@@ -153494,7 +151789,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="TRACE_GOSPEL_SA">
+  <programme start="20261118220046 +0000" stop="20261118230049 +0000" channel="TRACE_GOSPEL_SA">
     
     
     <prod_key_test/>
@@ -153536,7 +151831,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">3602.7</length>
     
     
     <episode-num system="800">800</episode-num>
@@ -203113,7 +201408,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118000000 +0000" stop="20261118060000 +0000" channel="TRACE_URBAN_INT">
+  <programme start="20261118000000 +0000" stop="20261118060008 +0000" channel="TRACE_URBAN_INT">
     
     
     <prod_key_test/>
@@ -203155,7 +201450,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">21600</length>
+    <length units="minutes">21608</length>
     
     
     <episode-num system="1375">1375</episode-num>
@@ -203200,7 +201495,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118060000 +0000" stop="20261118120000 +0000" channel="TRACE_URBAN_INT">
+  <programme start="20261118060008 +0000" stop="20261118120011 +0000" channel="TRACE_URBAN_INT">
     
     
     <prod_key_test/>
@@ -203242,7 +201537,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">21600</length>
+    <length units="minutes">21603.3</length>
     
     
     <episode-num system="1207">1207</episode-num>
@@ -203287,7 +201582,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118120000 +0000" stop="20261118180000 +0000" channel="TRACE_URBAN_INT">
+  <programme start="20261118120011 +0000" stop="20261118180015 +0000" channel="TRACE_URBAN_INT">
     
     
     <prod_key_test/>
@@ -203329,7 +201624,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">21600</length>
+    <length units="minutes">21604.1</length>
     
     
     <episode-num system="1267">1267</episode-num>
@@ -203374,7 +201669,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118180000 +0000" stop="20261118184500 +0000" channel="TRACE_URBAN_INT">
+  <programme start="20261118180015 +0000" stop="20261118183816 +0000" channel="TRACE_URBAN_INT">
     
     
     <prod_key_test/>
@@ -203416,7 +201711,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2281.4</length>
     
     
     <episode-num system="1712">1712</episode-num>
@@ -203461,7 +201756,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118184500 +0000" stop="20261118190000 +0000" channel="TRACE_URBAN_INT">
+  <programme start="20261118183816 +0000" stop="20261118190018 +0000" channel="TRACE_URBAN_INT">
     
     
     <prod_key_test/>
@@ -203503,7 +201798,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1321.3</length>
     
     
     <episode-num system="1656">1656</episode-num>
@@ -203548,7 +201843,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118190000 +0000" stop="20261118200000 +0000" channel="TRACE_URBAN_INT">
+  <programme start="20261118190018 +0000" stop="20261118200014 +0000" channel="TRACE_URBAN_INT">
     
     
     <prod_key_test/>
@@ -203590,7 +201885,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3596.4</length>
     
     
     <episode-num system="1178">1178</episode-num>
@@ -203635,7 +201930,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118200000 +0000" stop="20261118204500 +0000" channel="TRACE_URBAN_INT">
+  <programme start="20261118200014 +0000" stop="20261118203719 +0000" channel="TRACE_URBAN_INT">
     
     
     <prod_key_test/>
@@ -203677,7 +201972,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2225.1</length>
     
     
     <episode-num system="1045">1045</episode-num>
@@ -203722,7 +202017,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118204500 +0000" stop="20261118210000 +0000" channel="TRACE_URBAN_INT">
+  <programme start="20261118203719 +0000" stop="20261118210024 +0000" channel="TRACE_URBAN_INT">
     
     
     <prod_key_test/>
@@ -203764,7 +202059,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1384.5</length>
     
     
     <episode-num system="1657">1657</episode-num>
@@ -203809,7 +202104,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118210000 +0000" stop="20261118220000 +0000" channel="TRACE_URBAN_INT">
+  <programme start="20261118210024 +0000" stop="20261118220010 +0000" channel="TRACE_URBAN_INT">
     
     
     <prod_key_test/>
@@ -203851,7 +202146,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3586.4</length>
     
     
     <episode-num system="1159">1159</episode-num>
@@ -203896,7 +202191,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118220000 +0000" stop="20261118230000 +0000" channel="TRACE_URBAN_INT">
+  <programme start="20261118220010 +0000" stop="20261118230011 +0000" channel="TRACE_URBAN_INT">
     
     
     <prod_key_test/>
@@ -203938,7 +202233,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3600.4</length>
     
     
     <episode-num system="1420">1420</episode-num>
@@ -203983,7 +202278,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118230000 +0000" stop="20261119000000 +0000" channel="TRACE_URBAN_INT">
+  <programme start="20261118230011 +0000" stop="20261119000001 +0000" channel="TRACE_URBAN_INT">
     
     
     <prod_key_test/>
@@ -204025,7 +202320,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3589.9</length>
     
     
     <episode-num system="1159">1159</episode-num>
@@ -291871,7 +290166,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118000000 +0000" stop="20261118050000 +0000" channel="TRACE_AYITI">
+  <programme start="20261118000000 +0000" stop="20261118050004 +0000" channel="TRACE_AYITI">
     
     
     <prod_key_test/>
@@ -291913,7 +290208,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">18000</length>
+    <length units="minutes">18004.1</length>
     
     
     <episode-num system="1650">1650</episode-num>
@@ -291958,7 +290253,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118050000 +0000" stop="20261118080000 +0000" channel="TRACE_AYITI">
+  <programme start="20261118050004 +0000" stop="20261118080012 +0000" channel="TRACE_AYITI">
     
     
     <prod_key_test/>
@@ -292000,7 +290295,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10808.7</length>
     
     
     <episode-num system="1569">1569</episode-num>
@@ -292045,7 +290340,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118080000 +0000" stop="20261118084500 +0000" channel="TRACE_AYITI">
+  <programme start="20261118080006 +0000" stop="20261118083701 +0000" channel="TRACE_AYITI">
     
     
     <prod_key_test/>
@@ -292087,7 +290382,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2214.1</length>
     
     
     <episode-num system="1623">1623</episode-num>
@@ -292132,7 +290427,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118084500 +0000" stop="20261118100000 +0000" channel="TRACE_AYITI">
+  <programme start="20261118083701 +0000" stop="20261118100004 +0000" channel="TRACE_AYITI">
     
     
     <prod_key_test/>
@@ -292174,7 +290469,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">4500</length>
+    <length units="minutes">4983</length>
     
     
     <episode-num system="12">12</episode-num>
@@ -292219,7 +290514,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118100000 +0000" stop="20261118114500 +0000" channel="TRACE_AYITI">
+  <programme start="20261118100004 +0000" stop="20261118115404 +0000" channel="TRACE_AYITI">
     
     
     <prod_key_test/>
@@ -292261,7 +290556,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">6300</length>
+    <length units="minutes">6840.1</length>
     
     
     <episode-num system="1129">1129</episode-num>
@@ -292306,7 +290601,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118114500 +0000" stop="20261118120000 +0000" channel="TRACE_AYITI">
+  <programme start="20261118115404 +0000" stop="20261118180013 +0000" channel="TRACE_AYITI">
     
     
     <prod_key_test/>
@@ -292348,181 +290643,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">900</length>
-    
-    
-    <episode-num system="482">482</episode-num>
-    
-    
-    <episode-num system="assetID">SOUNDS OF HAÏTI</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118120000 +0000" stop="20261118130000 +0000" channel="TRACE_AYITI">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">LATIN VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">An hour of non-stop Latin hits !</desc>
-    
-    
-    <title lang="FR">LATIN VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Une heure non stop de hit latin !</desc>
-    
-    
-    <title lang="PT">LATIN VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Uma hora de êxitos latinos sem parar !</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="3">3</episode-num>
-    
-    
-    <episode-num system="assetID">LATIN VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118130000 +0000" stop="20261118170000 +0000" channel="TRACE_AYITI">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">SOUNDS OF HAÏTI</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Each week, discover our playlist of the best Haitian music videos of the moment.</desc>
-    
-    
-    <title lang="FR">SOUNDS OF HAÏTI</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Chaque semaine découvrez notre playlist des meilleurs clips haïtiens du moment.</desc>
-    
-    
-    <title lang="PT">SOUNDS OF HAÏTI</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Toda semana descubra nossa playlist com os melhores clipes haitianos do momento.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">14400</length>
+    <length units="minutes">21969.6</length>
     
     
     <episode-num system="3">3</episode-num>
@@ -292567,94 +290688,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118170000 +0000" stop="20261118180000 +0000" channel="TRACE_AYITI">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">FOCUS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TRACE Ayiti devotes 60 minutes to this artist's greatest hits, his best songs and his biggest successes. Just for you, it's in Focus is the show you don't want to miss!</desc>
-    
-    
-    <title lang="FR">FOCUS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TRACE Ayiti consacre 60 minutes aux plus grands succès de cet artiste, ses meilleurs titres et ses plus grand succès rien que pour toi, c'est dans Focus l'émission à ne pas manquer!</desc>
-    
-    
-    <title lang="PT">FOCUS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">TRACE Ayiti dedica 60 minutos aos maiores êxitos deste artista, às suas melhores canções e aos seus maiores sucessos. Só para si, It's in Focus é o espetáculo que não vai querer perder!</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="33">33</episode-num>
-    
-    
-    <episode-num system="assetID">FOCUS</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118180000 +0000" stop="20261118184500 +0000" channel="TRACE_AYITI">
+  <programme start="20261118180004 +0000" stop="20261118183659 +0000" channel="TRACE_AYITI">
     
     
     <prod_key_test/>
@@ -292696,7 +290730,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2214.1</length>
     
     
     <episode-num system="1623">1623</episode-num>
@@ -292741,7 +290775,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118184500 +0000" stop="20261118210000 +0000" channel="TRACE_AYITI">
+  <programme start="20261118183659 +0000" stop="20261118210006 +0000" channel="TRACE_AYITI">
     
     
     <prod_key_test/>
@@ -292783,7 +290817,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">8100</length>
+    <length units="minutes">8587.7</length>
     
     
     <episode-num system="78">78</episode-num>
@@ -292828,7 +290862,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118210000 +0000" stop="20261118230000 +0000" channel="TRACE_AYITI">
+  <programme start="20261118210006 +0000" stop="20261118230009 +0000" channel="TRACE_AYITI">
     
     
     <prod_key_test/>
@@ -292870,7 +290904,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7202.6</length>
     
     
     <episode-num system="18">18</episode-num>
@@ -292915,7 +290949,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118230000 +0000" stop="20261119000000 +0000" channel="TRACE_AYITI">
+  <programme start="20261118230003 +0000" stop="20261119000000 +0000" channel="TRACE_AYITI">
     
     
     <prod_key_test/>
@@ -292957,7 +290991,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3596.6</length>
     
     
     <episode-num system="18">18</episode-num>
@@ -392119,7 +390153,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118000000 +0000" stop="20261118010000 +0000" channel="TRACE_URBAN_AFR_FR">
+  <programme start="20261118000000 +0000" stop="20261118010007 +0000" channel="TRACE_URBAN_AFR_FR">
     
     
     <prod_key_test/>
@@ -392161,7 +390195,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3607.7</length>
     
     
     <episode-num system="1700">1700</episode-num>
@@ -392206,181 +390240,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118010000 +0000" stop="20261118020000 +0000" channel="TRACE_URBAN_AFR_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TRACE MUSIC LIVE</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">In real life, immersed in the moment, music resonates louder. To vibrate to urban Afro sounds and share concerts by the best artists... TRACE MUSIC LIVE invites you to join us every Friday at 9 p.m.</desc>
-    
-    
-    <title lang="FR">TRACE MUSIC LIVE</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">En vrai, en live, en immersion la musique résonne plus fort. Pour vibrer aux sons afros urbains et partager les concerts des meilleurs artistes… TRACE MUSIC LIVE vous donne rendez-vous tous les vendredis à 21h.</desc>
-    
-    
-    <title lang="PT">TRACE MUSIC LIVE</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Ao vivo, em imersão, a música ressoa mais forte. Para vibrar com os sons urbanos africanos e partilhar os concertos dos melhores artistas... TRACE MUSIC LIVE dá-lhe o encontro todas as sextas-feiras às 21h.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="62">62</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE MUSIC LIVE</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118020000 +0000" stop="20261118060000 +0000" channel="TRACE_URBAN_AFR_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">ALL NIGHT LONG</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Got insomnia? Or would you like to spend the night with some music? Welcome to the TRACE night room</desc>
-    
-    
-    <title lang="FR">ALL NIGHT LONG</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Vous avez une insomnie ? Ou vous voulez passer la nuit en musique ? Restez skotchez sur ALL NIGHT LONG !</desc>
-    
-    
-    <title lang="PT">ALL NIGHT LONG</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Você tem insônia? Ou você quer passar a noite com música? Bem-vindo à sala noturna TRACE</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">14400</length>
-    
-    
-    <episode-num system="209">209</episode-num>
-    
-    
-    <episode-num system="assetID">ALL NIGHT LONG</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118060000 +0000" stop="20261118090000 +0000" channel="TRACE_URBAN_AFR_FR">
+  <programme start="20261118060009 +0000" stop="20261118090015 +0000" channel="TRACE_URBAN_AFR_FR">
     
     
     <prod_key_test/>
@@ -392422,7 +390282,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10805.7</length>
     
     
     <episode-num system="1497">1497</episode-num>
@@ -392467,7 +390327,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="TRACE_URBAN_AFR_FR">
+  <programme start="20261118090009 +0000" stop="20261118093235 +0000" channel="TRACE_URBAN_AFR_FR">
     
     
     <prod_key_test/>
@@ -392509,7 +390369,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">1945.4</length>
     
     
     <episode-num system="75">75</episode-num>
@@ -392554,7 +390414,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118100000 +0000" stop="20261118110000 +0000" channel="TRACE_URBAN_AFR_FR">
+  <programme start="20261118100007 +0000" stop="20261118110007 +0000" channel="TRACE_URBAN_AFR_FR">
     
     
     <prod_key_test/>
@@ -392596,7 +390456,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3599.9</length>
     
     
     <episode-num system="1452">1452</episode-num>
@@ -392641,7 +390501,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118110000 +0000" stop="20261118130000 +0000" channel="TRACE_URBAN_AFR_FR">
+  <programme start="20261118110007 +0000" stop="20261118124101 +0000" channel="TRACE_URBAN_AFR_FR">
     
     
     <prod_key_test/>
@@ -392683,7 +390543,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">6053.9</length>
     
     
     <episode-num system="63">63</episode-num>
@@ -392728,7 +390588,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118130000 +0000" stop="20261118140000 +0000" channel="TRACE_URBAN_AFR_FR">
+  <programme start="20261118130014 +0000" stop="20261118140009 +0000" channel="TRACE_URBAN_AFR_FR">
     
     
     <prod_key_test/>
@@ -392770,7 +390630,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3595.1</length>
     
     
     <episode-num system="1467">1467</episode-num>
@@ -392815,7 +390675,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118140000 +0000" stop="20261118150000 +0000" channel="TRACE_URBAN_AFR_FR">
+  <programme start="20261118140009 +0000" stop="20261118150012 +0000" channel="TRACE_URBAN_AFR_FR">
     
     
     <prod_key_test/>
@@ -392857,7 +390717,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3602.6</length>
     
     
     <episode-num system="2719">2719</episode-num>
@@ -392902,7 +390762,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118150000 +0000" stop="20261118160000 +0000" channel="TRACE_URBAN_AFR_FR">
+  <programme start="20261118150012 +0000" stop="20261118160012 +0000" channel="TRACE_URBAN_AFR_FR">
     
     
     <prod_key_test/>
@@ -392944,7 +390804,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3600.7</length>
     
     
     <episode-num system="1184">1184</episode-num>
@@ -392989,94 +390849,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118160000 +0000" stop="20261118170000 +0000" channel="TRACE_URBAN_AFR_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TRACE MUSIC LIVE</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">In real life, immersed in the moment, music resonates louder. To vibrate to urban Afro sounds and share concerts by the best artists... TRACE MUSIC LIVE invites you to join us every Friday at 9 p.m.</desc>
-    
-    
-    <title lang="FR">TRACE MUSIC LIVE</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">En vrai, en live, en immersion la musique résonne plus fort. Pour vibrer aux sons afros urbains et partager les concerts des meilleurs artistes… TRACE MUSIC LIVE vous donne rendez-vous tous les vendredis à 21h.</desc>
-    
-    
-    <title lang="PT">TRACE MUSIC LIVE</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Ao vivo, em imersão, a música ressoa mais forte. Para vibrar com os sons urbanos africanos e partilhar os concertos dos melhores artistas... TRACE MUSIC LIVE dá-lhe o encontro todas as sextas-feiras às 21h.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="61">61</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE DOC</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118170000 +0000" stop="20261118180000 +0000" channel="TRACE_URBAN_AFR_FR">
+  <programme start="20261118170013 +0000" stop="20261118173225 +0000" channel="TRACE_URBAN_AFR_FR">
     
     
     <prod_key_test/>
@@ -393118,7 +390891,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">1932.4</length>
     
     
     <episode-num system="75">75</episode-num>
@@ -393163,7 +390936,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118180000 +0000" stop="20261118190000 +0000" channel="TRACE_URBAN_AFR_FR">
+  <programme start="20261118180010 +0000" stop="20261118190015 +0000" channel="TRACE_URBAN_AFR_FR">
     
     
     <prod_key_test/>
@@ -393205,7 +390978,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3604.2</length>
     
     
     <episode-num system="2720">2720</episode-num>
@@ -393250,7 +391023,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118190000 +0000" stop="20261118200000 +0000" channel="TRACE_URBAN_AFR_FR">
+  <programme start="20261118190000 +0000" stop="20261118200002 +0000" channel="TRACE_URBAN_AFR_FR">
     
     
     <prod_key_test/>
@@ -393292,448 +391065,13 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3602.6</length>
     
     
     <episode-num system="1268">1268</episode-num>
     
     
     <episode-num system="assetID">HITS &amp; LYRICS</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118200000 +0000" stop="20261118210000 +0000" channel="TRACE_URBAN_AFR_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TRACE MUSIC LIVE</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">In real life, immersed in the moment, music resonates louder. To vibrate to urban Afro sounds and share concerts by the best artists... TRACE MUSIC LIVE invites you to join us every Friday at 9 p.m.</desc>
-    
-    
-    <title lang="FR">TRACE MUSIC LIVE</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">En vrai, en live, en immersion la musique résonne plus fort. Pour vibrer aux sons afros urbains et partager les concerts des meilleurs artistes… TRACE MUSIC LIVE vous donne rendez-vous tous les vendredis à 21h.</desc>
-    
-    
-    <title lang="PT">TRACE MUSIC LIVE</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Ao vivo, em imersão, a música ressoa mais forte. Para vibrar com os sons urbanos africanos e partilhar os concertos dos melhores artistas... TRACE MUSIC LIVE dá-lhe o encontro todas as sextas-feiras às 21h.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="62">62</episode-num>
-    
-    
-    <episode-num system="assetID">RAP CONTENDERS</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118210000 +0000" stop="20261118220000 +0000" channel="TRACE_URBAN_AFR_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TRACE MUSIC LIVE</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">In real life, immersed in the moment, music resonates louder. To vibrate to urban Afro sounds and share concerts by the best artists... TRACE MUSIC LIVE invites you to join us every Friday at 9 p.m.</desc>
-    
-    
-    <title lang="FR">TRACE MUSIC LIVE</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">En vrai, en live, en immersion la musique résonne plus fort. Pour vibrer aux sons afros urbains et partager les concerts des meilleurs artistes… TRACE MUSIC LIVE vous donne rendez-vous tous les vendredis à 21h.</desc>
-    
-    
-    <title lang="PT">TRACE MUSIC LIVE</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Ao vivo, em imersão, a música ressoa mais forte. Para vibrar com os sons urbanos africanos e partilhar os concertos dos melhores artistas... TRACE MUSIC LIVE dá-lhe o encontro todas as sextas-feiras às 21h.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="65">65</episode-num>
-    
-    
-    <episode-num system="assetID">TRACE MAG</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118220000 +0000" stop="20261118230000 +0000" channel="TRACE_URBAN_AFR_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">CLASSICS</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TRACE Urban takes you back to the 90s and early 2000s to meet the pioneers of urban music. Get ready for an exciting journey through time.</desc>
-    
-    
-    <title lang="FR">CLASSICS</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TRACE Urban vous plonge dans les 90's et le début des années 2000 pour retrouver les pionniers de la musique urbaine. Préparez-vous pour un voyage passionnant à travers le temps.</desc>
-    
-    
-    <title lang="PT">CLASSICS</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">TRACE Urban leva você de volta aos anos 90 e início dos anos 2000 para encontrar os pioneiros da música urbana. Prepare-se para uma emocionante viagem no tempo.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1373">1373</episode-num>
-    
-    
-    <episode-num system="assetID">CLASSICS</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118230000 +0000" stop="20261118234500 +0000" channel="TRACE_URBAN_AFR_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">GLOBAL HIT</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Find all the international hits from the 4 corners of the Globe</desc>
-    
-    
-    <title lang="FR">GLOBAL HIT</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Retrouver tous les tubes internationaux des 4 coins du Globe</desc>
-    
-    
-    <title lang="PT">GLOBAL HIT</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Encontre todos os sucessos internacionais dos 4 cantos do Globo</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">2700</length>
-    
-    
-    <episode-num system="18">18</episode-num>
-    
-    
-    <episode-num system="assetID">GLOBAL HIT</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118234500 +0000" stop="20261119000000 +0000" channel="TRACE_URBAN_AFR_FR">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">URBAN VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">TRACE presents the best urban tracks, from classics to the best hits of the moment.</desc>
-    
-    
-    <title lang="FR">URBAN VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">TRACE met en avant les meilleurs titres urbains entre classiques et hits du moment.</desc>
-    
-    
-    <title lang="PT">URBAN VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">TRACE destaca os melhores títulos urbanos, entre clássicos e sucessos do momento.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">900</length>
-    
-    
-    <episode-num system="1190">1190</episode-num>
-    
-    
-    <episode-num system="assetID">URBAN VIBES</episode-num>
     
     
     <credits/>
@@ -416026,94 +413364,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118000000 +0000" stop="20261118030000 +0000" channel="TRACE_VANILLA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">VANILLA VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">All the music of the Indian Ocean in Vanilla vibes.</desc>
-    
-    
-    <title lang="FR">VANILLA VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Toutes les musiques de l'océan indien dans Vanilla vibes.</desc>
-    
-    
-    <title lang="PT">VANILLA VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Toda a música do Oceano Índico em vibrações Vanilla.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">10800</length>
-    
-    
-    <episode-num system="19">19</episode-num>
-    
-    
-    <episode-num system="assetID">VANILLA VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118030000 +0000" stop="20261118050000 +0000" channel="TRACE_VANILLA">
+  <programme start="20261118030040 +0000" stop="20261118050025 +0000" channel="TRACE_VANILLA">
     
     
     <prod_key_test/>
@@ -416155,7 +413406,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7185.5</length>
     
     
     <episode-num system="2077">2077</episode-num>
@@ -416200,7 +413451,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118050000 +0000" stop="20261118080000 +0000" channel="TRACE_VANILLA">
+  <programme start="20261118050025 +0000" stop="20261118080039 +0000" channel="TRACE_VANILLA">
     
     
     <prod_key_test/>
@@ -416242,7 +413493,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10813.6</length>
     
     
     <episode-num system="1746">1746</episode-num>
@@ -416287,7 +413538,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118080000 +0000" stop="20261118110000 +0000" channel="TRACE_VANILLA">
+  <programme start="20261118080039 +0000" stop="20261118110018 +0000" channel="TRACE_VANILLA">
     
     
     <prod_key_test/>
@@ -416329,7 +413580,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10779.1</length>
     
     
     <episode-num system="1522">1522</episode-num>
@@ -416374,7 +413625,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118110000 +0000" stop="20261118120000 +0000" channel="TRACE_VANILLA">
+  <programme start="20261118110018 +0000" stop="20261118112933 +0000" channel="TRACE_VANILLA">
     
     
     <prod_key_test/>
@@ -416416,7 +413667,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">1754.4</length>
     
     
     <episode-num system="307">307</episode-num>
@@ -416461,7 +413712,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118120000 +0000" stop="20261118150000 +0000" channel="TRACE_VANILLA">
+  <programme start="20261118112933 +0000" stop="20261118150009 +0000" channel="TRACE_VANILLA">
     
     
     <prod_key_test/>
@@ -416503,7 +413754,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">12635.9</length>
     
     
     <episode-num system="163">163</episode-num>
@@ -416548,7 +413799,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118150000 +0000" stop="20261118170000 +0000" channel="TRACE_VANILLA">
+  <programme start="20261118150009 +0000" stop="20261118170023 +0000" channel="TRACE_VANILLA">
     
     
     <prod_key_test/>
@@ -416590,7 +413841,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7214.1</length>
     
     
     <episode-num system="1998">1998</episode-num>
@@ -416635,7 +413886,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118170000 +0000" stop="20261118181500 +0000" channel="TRACE_VANILLA">
+  <programme start="20261118170023 +0000" stop="20261118182817 +0000" channel="TRACE_VANILLA">
     
     
     <prod_key_test/>
@@ -416677,7 +413928,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">4500</length>
+    <length units="minutes">5274</length>
     
     
     <episode-num system="1546">1546</episode-num>
@@ -416722,7 +413973,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118181500 +0000" stop="20261118190000 +0000" channel="TRACE_VANILLA">
+  <programme start="20261118182817 +0000" stop="20261118185732 +0000" channel="TRACE_VANILLA">
     
     
     <prod_key_test/>
@@ -416764,7 +414015,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">1754.7</length>
     
     
     <episode-num system="1709">1709</episode-num>
@@ -416809,7 +414060,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118190000 +0000" stop="20261118210000 +0000" channel="TRACE_VANILLA">
+  <programme start="20261118185732 +0000" stop="20261118210107 +0000" channel="TRACE_VANILLA">
     
     
     <prod_key_test/>
@@ -416833,7 +414084,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7415.3</length>
     
     
     <episode-num system="1608">1608</episode-num>
@@ -416878,7 +414129,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118210000 +0000" stop="20261118220000 +0000" channel="TRACE_VANILLA">
+  <programme start="20261118210107 +0000" stop="20261118215427 +0000" channel="TRACE_VANILLA">
     
     
     <prod_key_test/>
@@ -416920,7 +414171,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3199.9</length>
     
     
     <episode-num system="1762">1762</episode-num>
@@ -416965,7 +414216,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118220000 +0000" stop="20261119000000 +0000" channel="TRACE_VANILLA">
+  <programme start="20261118215427 +0000" stop="20261119000037 +0000" channel="TRACE_VANILLA">
     
     
     <prod_key_test/>
@@ -417007,7 +414258,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7569.7</length>
     
     
     <episode-num system="1433">1433</episode-num>
@@ -457546,7 +454797,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118000000 +0000" stop="20261118004500 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118000000 +0000" stop="20261118003249 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -457588,7 +454839,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">1969.9</length>
     
     
     <episode-num system="1207">1207</episode-num>
@@ -457633,7 +454884,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118004500 +0000" stop="20261118010000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118003249 +0000" stop="20261118010010 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -457675,7 +454926,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1640.8</length>
     
     
     <episode-num system="4233">4233</episode-num>
@@ -457720,7 +454971,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118010000 +0000" stop="20261118060000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118010010 +0000" stop="20261118060011 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -457762,7 +455013,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">18000</length>
+    <length units="minutes">18000.4</length>
     
     
     <episode-num system="1957">1957</episode-num>
@@ -457807,7 +455058,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118060000 +0000" stop="20261118090000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118060005 +0000" stop="20261118090008 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -457849,7 +455100,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10803.3</length>
     
     
     <episode-num system="1793">1793</episode-num>
@@ -457894,7 +455145,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118090000 +0000" stop="20261118094500 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118090008 +0000" stop="20261118094128 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -457936,7 +455187,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2479.8</length>
     
     
     <episode-num system="1559">1559</episode-num>
@@ -457981,7 +455232,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118094500 +0000" stop="20261118100000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118094128 +0000" stop="20261118100010 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -458023,7 +455274,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1121.6</length>
     
     
     <episode-num system="4234">4234</episode-num>
@@ -458068,7 +455319,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118100000 +0000" stop="20261118150000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118100010 +0000" stop="20261118150009 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -458110,7 +455361,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">18000</length>
+    <length units="minutes">17999.1</length>
     
     
     <episode-num system="1562">1562</episode-num>
@@ -458155,7 +455406,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118150000 +0000" stop="20261118160000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118150001 +0000" stop="20261118160013 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -458197,7 +455448,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3612.3</length>
     
     
     <episode-num system="1616">1616</episode-num>
@@ -458242,7 +455493,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118160000 +0000" stop="20261118180000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118160013 +0000" stop="20261118180014 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -458285,7 +455536,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">7201</length>
     
     
     <episode-num system="1685">1685</episode-num>
@@ -458330,7 +455581,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118180000 +0000" stop="20261118184500 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118180014 +0000" stop="20261118184245 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -458372,7 +455623,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2551.2</length>
     
     
     <episode-num system="1559">1559</episode-num>
@@ -458417,7 +455668,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118184500 +0000" stop="20261118190000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118184245 +0000" stop="20261118190005 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -458459,7 +455710,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1039.9</length>
     
     
     <episode-num system="4235">4235</episode-num>
@@ -458504,181 +455755,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118190000 +0000" stop="20261118194500 +0000" channel="TRACE_AFRIKORA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">DJOUBA</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Djouba is a selection of the best African hits of the moment.</desc>
-    
-    
-    <title lang="FR">DJOUBA</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Djouba c'est une sélection des meilleurs hits africains du moment.</desc>
-    
-    
-    <title lang="PT">DJOUBA</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Djouba é uma seleção dos melhores hits africanos do momento.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">2700</length>
-    
-    
-    <episode-num system="9">9</episode-num>
-    
-    
-    <episode-num system="assetID">DJOUBA</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118194500 +0000" stop="20261118200000 +0000" channel="TRACE_AFRIKORA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TERANGA NGOON SI</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">It's the start of the evening, come and relax with a selection of the best tracks of the moment </desc>
-    
-    
-    <title lang="FR">TERANGA NGOON SI</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">C'est le début de la soirée vient te détendre avec une sélection des meilleurs titres du moment</desc>
-    
-    
-    <title lang="PT">TERANGA NGOON SI</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">É o início da noite, vem descontrair-te com uma seleção das melhores músicas do momento</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261201</date>
-    
-    
-    <length units="minutes">900</length>
-    
-    
-    <episode-num system="2">2</episode-num>
-    
-    
-    <episode-num system="assetID">TERANGA NGOON SI</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261118200000 +0000" stop="20261118204500 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118200004 +0000" stop="20261118203604 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -458720,7 +455797,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2159.9</length>
     
     
     <episode-num system="1133">1133</episode-num>
@@ -458765,7 +455842,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118204500 +0000" stop="20261118210000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118203604 +0000" stop="20261118210012 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -458807,7 +455884,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">1447.8</length>
     
     
     <episode-num system="4236">4236</episode-num>
@@ -458852,7 +455929,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261118210000 +0000" stop="20261119000000 +0000" channel="TRACE_AFRIKORA">
+  <programme start="20261118210012 +0000" stop="20261119000013 +0000" channel="TRACE_AFRIKORA">
     
     
     <prod_key_test/>
@@ -458894,7 +455971,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261201</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10800.7</length>
     
     
     <episode-num system="68">68</episode-num>
