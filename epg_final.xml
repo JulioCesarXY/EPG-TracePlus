@@ -113332,7 +113332,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261119000000 +0000" stop="20261119060000 +0000" channel="TRACE_JAMA">
+  <programme start="20261119000000 +0000" stop="20261119060039 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113374,7 +113374,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">21600</length>
+    <length units="minutes">21639.9</length>
     
     
     <episode-num system="1623">1623</episode-num>
@@ -113419,7 +113419,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261119060000 +0000" stop="20261119090000 +0000" channel="TRACE_JAMA">
+  <programme start="20261119060039 +0000" stop="20261119090032 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113461,7 +113461,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">10800</length>
+    <length units="minutes">10792.2</length>
     
     
     <episode-num system="1088">1088</episode-num>
@@ -113506,94 +113506,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261119090000 +0000" stop="20261119100000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">FOCUS </title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Focus is the show you don't want to miss! From love songs to club bangers, TRACE JAMA dey dedicate 60 minutes to your favorite artist's and their jams </desc>
-    
-    
-    <title lang="FR">FOCUS </title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Focus est l'émission que vous ne voulez pas manquer ! De la chanson d'amour au club banger, TRACE JAMA consacre 60 minutes à vos artistes préférés et à leurs morceaux.  </desc>
-    
-    
-    <title lang="PT">FOCUS </title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Focus é o programa que não vai querer perder! Desde canções de amor a êxitos de discoteca, o TRACE JAMA dedica 60 minutos aos seus artistas favoritos e às suas músicas  </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261202</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1349">1349</episode-num>
-    
-    
-    <episode-num system="assetID">FOCUS </episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261119100000 +0000" stop="20261119110000 +0000" channel="TRACE_JAMA">
+  <programme start="20261119100044 +0000" stop="20261119140050 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113635,181 +113548,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1585">1585</episode-num>
-    
-    
-    <episode-num system="assetID">HIGHLIFE VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261119110000 +0000" stop="20261119120000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best of the best Highlife has to offer, only on Trace JAMA</desc>
-    
-    
-    <title lang="FR">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Le meilleur du meilleur que Highlife a à offrir, uniquement sur Trace JAMA</desc>
-    
-    
-    <title lang="PT">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">O melhor do melhor que Highlife tem a oferecer, apenas no Trace JAMA</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261202</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1655">1655</episode-num>
-    
-    
-    <episode-num system="assetID">HIGHLIFE VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261119120000 +0000" stop="20261119130000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best of the best Highlife has to offer, only on Trace JAMA</desc>
-    
-    
-    <title lang="FR">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Le meilleur du meilleur que Highlife a à offrir, uniquement sur Trace JAMA</desc>
-    
-    
-    <title lang="PT">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">O melhor do melhor que Highlife tem a oferecer, apenas no Trace JAMA</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261202</date>
-    
-    
-    <length units="minutes">3600</length>
+    <length units="minutes">14405.1</length>
     
     
     <episode-num system="1621">1621</episode-num>
@@ -113854,7 +113593,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261119130000 +0000" stop="20261119140000 +0000" channel="TRACE_JAMA">
+  <programme start="20261119140050 +0000" stop="20261119143301 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -113896,94 +113635,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1656">1656</episode-num>
-    
-    
-    <episode-num system="assetID">HIGHLIFE VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261119140000 +0000" stop="20261119160000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best of the best Highlife has to offer, only on Trace JAMA</desc>
-    
-    
-    <title lang="FR">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Le meilleur du meilleur que Highlife a à offrir, uniquement sur Trace JAMA</desc>
-    
-    
-    <title lang="PT">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">O melhor do melhor que Highlife tem a oferecer, apenas no Trace JAMA</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261202</date>
-    
-    
-    <length units="minutes">7200</length>
+    <length units="minutes">1931.6</length>
     
     
     <episode-num system="1672">1672</episode-num>
@@ -114028,7 +113680,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261119160000 +0000" stop="20261119170000 +0000" channel="TRACE_JAMA">
+  <programme start="20261119143301 +0000" stop="20261119180056 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -114070,7 +113722,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">12474.7</length>
     
     
     <episode-num system="1512">1512</episode-num>
@@ -114115,7 +113767,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261119170000 +0000" stop="20261119180000 +0000" channel="TRACE_JAMA">
+  <programme start="20261119180056 +0000" stop="20261119190049 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -114157,94 +113809,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1657">1657</episode-num>
-    
-    
-    <episode-num system="assetID">HIGHLIFE VIBES</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261119180000 +0000" stop="20261119190000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">The best of the best Highlife has to offer, only on Trace JAMA</desc>
-    
-    
-    <title lang="FR">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Le meilleur du meilleur que Highlife a à offrir, uniquement sur Trace JAMA</desc>
-    
-    
-    <title lang="PT">HIGHLIFE VIBES</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">O melhor do melhor que Highlife tem a oferecer, apenas no Trace JAMA</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261202</date>
-    
-    
-    <length units="minutes">3600</length>
+    <length units="minutes">3593.4</length>
     
     
     <episode-num system="1513">1513</episode-num>
@@ -114289,7 +113854,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261119190000 +0000" stop="20261119194500 +0000" channel="TRACE_JAMA">
+  <programme start="20261119190049 +0000" stop="20261119194912 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -114331,7 +113896,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2903</length>
     
     
     <episode-num system="1544">1544</episode-num>
@@ -114376,7 +113941,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261119194500 +0000" stop="20261119200000 +0000" channel="TRACE_JAMA">
+  <programme start="20261119194912 +0000" stop="20261119200044 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -114418,7 +113983,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">691.4</length>
     
     
     <episode-num system="1448">1448</episode-num>
@@ -114463,7 +114028,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261119200000 +0000" stop="20261119210000 +0000" channel="TRACE_JAMA">
+  <programme start="20261119200044 +0000" stop="20261119210057 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -114505,7 +114070,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3613.1</length>
     
     
     <episode-num system="1481">1481</episode-num>
@@ -114550,7 +114115,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261119210000 +0000" stop="20261119220000 +0000" channel="TRACE_JAMA">
+  <programme start="20261119210057 +0000" stop="20261119220058 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -114592,7 +114157,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3600.9</length>
     
     
     <episode-num system="2068">2068</episode-num>
@@ -114637,7 +114202,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261119220000 +0000" stop="20261119230000 +0000" channel="TRACE_JAMA">
+  <programme start="20261119220058 +0000" stop="20261119230059 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -114679,7 +114244,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3601</length>
     
     
     <episode-num system="1440">1440</episode-num>
@@ -114724,7 +114289,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261119230000 +0000" stop="20261120000000 +0000" channel="TRACE_JAMA">
+  <programme start="20261119230059 +0000" stop="20261120000107 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -114766,7 +114331,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3607.8</length>
     
     
     <episode-num system="2069">2069</episode-num>
@@ -114811,7 +114376,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261120000000 +0000" stop="20261120060000 +0000" channel="TRACE_JAMA">
+  <programme start="20261120000000 +0000" stop="20261120060028 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -114853,7 +114418,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">21600</length>
+    <length units="minutes">21628.1</length>
     
     
     <episode-num system="1624">1624</episode-num>
@@ -114898,7 +114463,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261120060000 +0000" stop="20261120100000 +0000" channel="TRACE_JAMA">
+  <programme start="20261120060028 +0000" stop="20261120100047 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -114940,7 +114505,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">14400</length>
+    <length units="minutes">14419</length>
     
     
     <episode-num system="1535">1535</episode-num>
@@ -114985,7 +114550,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="TRACE_JAMA">
+  <programme start="20261120100047 +0000" stop="20261120103159 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -115027,7 +114592,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">1872</length>
     
     
     <episode-num system="1186">1186</episode-num>
@@ -115072,7 +114637,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261120110000 +0000" stop="20261120120000 +0000" channel="TRACE_JAMA">
+  <programme start="20261120103159 +0000" stop="20261120120050 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -115114,7 +114679,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">5331.7</length>
     
     
     <episode-num system="1187">1187</episode-num>
@@ -115159,94 +114724,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261120120000 +0000" stop="20261120130000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">FOCUS </title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Focus is the show you don't want to miss! From love songs to club bangers, TRACE JAMA dey dedicate 60 minutes to your favorite artist's and their jams </desc>
-    
-    
-    <title lang="FR">FOCUS </title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Focus est l'émission que vous ne voulez pas manquer ! De la chanson d'amour au club banger, TRACE JAMA consacre 60 minutes à vos artistes préférés et à leurs morceaux.  </desc>
-    
-    
-    <title lang="PT">FOCUS </title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Focus é o programa que não vai querer perder! Desde canções de amor a êxitos de discoteca, o TRACE JAMA dedica 60 minutos aos seus artistas favoritos e às suas músicas  </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261202</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1349">1349</episode-num>
-    
-    
-    <episode-num system="assetID">FOCUS </episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261120130000 +0000" stop="20261120143000 +0000" channel="TRACE_JAMA">
+  <programme start="20261120130047 +0000" stop="20261120160051 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -115288,94 +114766,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">5400</length>
-    
-    
-    <episode-num system="1071">1071</episode-num>
-    
-    
-    <episode-num system="assetID">TURN UP</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261120143000 +0000" stop="20261120150000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TURN UP</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Turn up with us on Trace JAMA with steady bangers from all your Favorite artists.</desc>
-    
-    
-    <title lang="FR">TURN UP</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Rejoignez-nous sur Trace JAMA avec des bangers réguliers de tous vos artistes préférés.</desc>
-    
-    
-    <title lang="PT">TURN UP</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Venha conosco no Trace JAMA com sucessos constantes de todos os seus artistas favoritos.</desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261202</date>
-    
-    
-    <length units="minutes">1800</length>
+    <length units="minutes">10803.4</length>
     
     
     <episode-num system="1029">1029</episode-num>
@@ -115420,7 +114811,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261120150000 +0000" stop="20261120170000 +0000" channel="TRACE_JAMA">
+  <programme start="20261120160051 +0000" stop="20261120173249 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -115462,7 +114853,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">7200</length>
+    <length units="minutes">5518.1</length>
     
     
     <episode-num system="1120">1120</episode-num>
@@ -115507,94 +114898,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261120170000 +0000" stop="20261120180000 +0000" channel="TRACE_JAMA">
-    
-    
-    <prod_key_test/>
-    
-    
-    <title lang="EN">TURN UP</title>
-    
-    
-    <category lang="EN"/>
-    
-    
-    <desc lang="EN">Party anthems only. </desc>
-    
-    
-    <title lang="FR">TURN UP</title>
-    
-    
-    <category lang="FR"/>
-    
-    
-    <desc lang="FR">Les hymnes à la fête uniquement.  </desc>
-    
-    
-    <title lang="PT">TURN UP</title>
-    
-    
-    <category lang="PT"/>
-    
-    
-    <desc lang="PT">Apenas hinos de festa.  </desc>
-    
-    
-    <icon src="https://filesapp.trace.tv/test/files/images/source/Trace_TV_Logo_w_1280_h_329.png" width="1920" height="1080"/>
-    
-    
-    <language/>
-    
-    
-    <date>20261202</date>
-    
-    
-    <length units="minutes">3600</length>
-    
-    
-    <episode-num system="1200">1200</episode-num>
-    
-    
-    <episode-num system="assetID">TURN UP</episode-num>
-    
-    
-    <credits/>
-    
-    
-    <video>
-      
-      
-      <present>yes</present>
-      
-      
-      <colour>yes</colour>
-      
-      
-      <quality>1920x1024</quality>
-      
-    
-    </video>
-    
-    
-    <rating/>
-    
-    
-    <audio>
-      
-      
-      <present>yes</present>
-      
-      
-      <stereo>stereo</stereo>
-      
-    
-    </audio>
-    
-  
-  </programme>
-  
-  
-  <programme start="20261120180000 +0000" stop="20261120190000 +0000" channel="TRACE_JAMA">
+  <programme start="20261120180039 +0000" stop="20261120190037 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -115636,7 +114940,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3598.3</length>
     
     
     <episode-num system="1514">1514</episode-num>
@@ -115681,7 +114985,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261120190000 +0000" stop="20261120194500 +0000" channel="TRACE_JAMA">
+  <programme start="20261120190037 +0000" stop="20261120194625 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -115723,7 +115027,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">2700</length>
+    <length units="minutes">2747.8</length>
     
     
     <episode-num system="1545">1545</episode-num>
@@ -115768,7 +115072,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261120194500 +0000" stop="20261120200000 +0000" channel="TRACE_JAMA">
+  <programme start="20261120194625 +0000" stop="20261120200053 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -115810,7 +115114,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">900</length>
+    <length units="minutes">868.3</length>
     
     
     <episode-num system="1449">1449</episode-num>
@@ -115855,7 +115159,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261120200000 +0000" stop="20261120210000 +0000" channel="TRACE_JAMA">
+  <programme start="20261120200053 +0000" stop="20261120210107 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -115897,7 +115201,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3613.4</length>
     
     
     <episode-num system="1482">1482</episode-num>
@@ -115942,7 +115246,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="TRACE_JAMA">
+  <programme start="20261120210107 +0000" stop="20261120220053 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -115984,7 +115288,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3585.8</length>
     
     
     <episode-num system="2070">2070</episode-num>
@@ -116029,7 +115333,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261120220000 +0000" stop="20261120230000 +0000" channel="TRACE_JAMA">
+  <programme start="20261120220053 +0000" stop="20261120230048 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -116071,7 +115375,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3595</length>
     
     
     <episode-num system="1441">1441</episode-num>
@@ -116116,7 +115420,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
   </programme>
   
   
-  <programme start="20261120230000 +0000" stop="20261121000000 +0000" channel="TRACE_JAMA">
+  <programme start="20261120230048 +0000" stop="20261121000057 +0000" channel="TRACE_JAMA">
     
     
     <prod_key_test/>
@@ -116158,7 +115462,7 @@ Nossa equipe matinal está aqui para dar aquele gás no seu despertar!
     <date>20261202</date>
     
     
-    <length units="minutes">3600</length>
+    <length units="minutes">3608.9</length>
     
     
     <episode-num system="2071">2071</episode-num>
